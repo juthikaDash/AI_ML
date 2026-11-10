@@ -1,0 +1,772 @@
+year,make,model,trim,price,msrp,mileage,condition,deal,dealer,location,distance,source,vin,link
+2025,Nissan,Leaf,S,16250,,5967,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,1N4AZ1BV2SC561767,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794318620
+2023,Volkswagen,Taos,S,17499,,30215,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVCX7B29PM379847,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793562907
+2023,Kia,Forte,LXS,17775,,28098,Certified,Great,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,3KPF24AD1PE670008,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790063736
+2023,Kia,Forte,LXS,17775,,27757,Certified,Great,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,3KPF24AD6PE609897,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790063734
+2023,Nissan,Ariya,FWD,17888,,29907,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,JN1AF0BA8PM410222,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790416678
+2025,Ford,Escape,ST-Line,17937,,44352,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,1FMCU0MN3SUB22673,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793412887
+2023,Volkswagen,Taos,S,18341,,18575,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,3VVDX7B20PM381149,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795569407
+2023,Ford,Escape,Active,18592,,41602,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,1FMCU9GN0PUA14681,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793725025
+2023,Volkswagen,ID.4,Pro,18677,,44501,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2CMPE82PC023697,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795048891
+2023,Nissan,Ariya,FWD,18999,,22831,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,JN1AF0BA5PM407956,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789946966
+2023,Nissan,Ariya,FWD,18999,,24076,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,JN1AF0BA6PM406914,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790416679
+2023,Volkswagen,Taos,SE,19093,,38338,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVSX7B27PM341920,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794169463
+2024,Kia,Niro,Wind,19267,,33559,Certified,Great,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDCR3L1XR5096051,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793143004
+2023,Volkswagen,ID.4,Pro,19788,,23230,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2CMPE85PC031969,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794347006
+2026,Nissan,Sentra,S FWD,19873,,2,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9BV7TY296174,https://www.cargurus.com/Cars/link/451317361
+2023,Nissan,Ariya,FWD,19888,,42261,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,JN1BF0AA6PM408538,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788237942
+2023,Volkswagen,Taos,SE,20351,,15646,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,3VVEX7B26PM371777,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794979530
+2023,Volkswagen,ID.4,S,20473,,24779,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V25MPE85PC055570,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794588350
+2023,Volkswagen,ID.4,Pro S,20483,,38435,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2VMPE85PC020849,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794088050
+2026,Hyundai,Elantra,SE FWD,20483,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KMHLL4DG3TU292349,https://www.cargurus.com/Cars/link/457571589
+2023,Volkswagen,ID.4,Pro,20498,,32994,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2CMPE82PC054528,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795162970
+2026,Hyundai,Elantra,SE FWD,20515,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KMHLL4DG6TU282169,https://www.cargurus.com/Cars/link/454299750
+2023,Ford,Escape,Active,20522,,17327,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,1FMCU0GN3PUA14475,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176818
+2023,Volkswagen,ID.4,Pro,20587,,28589,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2CMPE8XPC018439,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795084677
+2026,Hyundai,Elantra,SE FWD,20765,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KMHLL4DG0TU292339,https://www.cargurus.com/Cars/link/458785990
+2023,Volkswagen,ID.4,Pro S,20816,,41813,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE86PC045033,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795152962
+2025,Nissan,Versa,SV FWD,20886,,5,New,,Hanlees Fairfield Nissan,"Fairfield, CA",63.8,CarGurus,3N1CN8EV7SL880298,https://www.cargurus.com/Cars/link/429731387
+2023,Volkswagen,ID.4,Pro S,20893,,35398,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2VMPE8XPC045990,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795655836
+2025,Nissan,Rogue,S FWD,20945,,8,New,,Nissan of Serramonte,"Colma, CA",39.1,CarGurus,5N1BT3AA3SC868967,https://www.cargurus.com/Cars/link/463160448
+2025,Volkswagen,Taos,S,20979,,9246,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VV8C7B25SM049293,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791764264
+2023,Volkswagen,ID.4,S,21052,,24416,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,1V25MPE85PC041880,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793129451
+2026,Hyundai,Elantra,SE,21120,,10,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG9TU216280,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787566349
+2026,Chevrolet,Trax,LT FWD,21197,,5614,New,,Sanborn Chevrolet Incorporated,"Lodi, CA",64.2,CarGurus,KL77LHEP4TC105392,https://www.cargurus.com/Cars/link/441245816
+2023,Volkswagen,ID.4,S,21211,,27196,Certified,Good,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V25MPE87PC049771,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794707660
+2023,Volkswagen,ID.4,S,21341,,14698,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,1V25MPE8XPC046377,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794250316
+2023,Ford,Edge,SEL,21387,,38602,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,2FMPK4J93PBA52790,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790797988
+2023,Ford,Bronco Sport,Big Bend,21422,,40402,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMCR9B60PRD83534,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791085411
+2023,Ford,Bronco Sport,Big Bend,21427,,44561,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMCR9B66PRE30775,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790977348
+2023,Volkswagen,ID.4,Pro S,21473,,29762,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2VMPE82PC036703,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793770125
+2023,Volkswagen,Jetta,SEL,21475,,22055,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VWGM7BU5PM050117,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788265663
+2023,Volkswagen,Tiguan,SE,21483,,26548,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,3VV3B7AX2PM115235,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791774492
+2023,Volkswagen,ID.4,Pro S,21493,,37021,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2VMPE88PC052310,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795456351
+2023,Volkswagen,ID.4,Pro S,21671,,34780,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE82PC033865,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793508311
+2026,Buick,Envista,Preferred FWD,21735,,7,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL47LAEP9TB277945,https://www.cargurus.com/Cars/link/460447645
+2026,Hyundai,Kona,SEL Sport FWD,21738,,4967,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,KM8HF3AB7TU401881,https://www.cargurus.com/Cars/link/460761321
+2023,Volkswagen,Tiguan,SE,21771,,18612,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,3VVNB7AX9PM107187,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793846584
+2026,Chevrolet,Trax,LS FWD,21855,,4,New,,Greenwood Chevrolet,"Hollister, CA",42.4,CarGurus,KL77LFEP5TC230180,https://www.cargurus.com/Cars/link/456087348
+2026,Chevrolet,Trax,LS FWD,21855,,4,New,,Greenwood Chevrolet,"Hollister, CA",42.4,CarGurus,KL77LFEP9TC230165,https://www.cargurus.com/Cars/link/456087350
+2026,Chevrolet,Trax,LT FWD,21990,,13,New,,Concord Chevrolet,"Concord, CA",45.4,CarGurus,KL77LHEPXTC265177,https://www.cargurus.com/Cars/link/458561244
+2023,Volkswagen,ID.4,S,22021,,12988,Certified,Good,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V25MPE81PC033033,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794442391
+2023,Volkswagen,ID.4,Pro S,22033,,31126,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE87PC045185,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795084676
+2026,Hyundai,Kona,SEL Sport,22035,,6881,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HF3AB4TU361209,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792677263
+2023,Volkswagen,ID.4,Pro S,22114,,26761,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE8XPC032365,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794603421
+2023,Volkswagen,Tiguan,SE R-Line,22252,,36995,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVCB7AX0PM127982,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792795503
+2026,Hyundai,Kona,SEL Sport,22335,,7130,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HF3AB6TU371532,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795719205
+2023,Volkswagen,ID.4,Pro S,22473,,38588,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2GNPE84PC003191,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795044411
+2026,Hyundai,Elantra,SEL Sport Premium FWD,22483,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KMHLS4DG7TU226924,https://www.cargurus.com/Cars/link/454299739
+2026,Hyundai,Elantra,SEL Sport Premium FWD,22483,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KMHLS4DG2TU226961,https://www.cargurus.com/Cars/link/454299782
+2026,Kia,K4,LX FWD,22499,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,3KPFT4DE4TE341203,https://www.cargurus.com/Cars/link/448957042
+2023,Volkswagen,ID.4,Pro S,22610,,27716,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE80PC048610,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795250224
+2026,Hyundai,Elantra,SE,22620,,8,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG1TU246552,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792042505
+2023,Hyundai,Santa Fe,SEL,22621,,43753,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,5NMS2DAJ2PH586339,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504377
+2023,Toyota,bZ4X,FWD,22634,,35050,Certified,Great,Capitol Toyota (CA),"San Jose, CA",4.1,AutoTrader,JTMAAAAA1PA016002,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791610871
+2026,Chevrolet,Trax,RS with 1RS FWD,22740,,8,New,,Concord Chevrolet,"Concord, CA",45.4,CarGurus,KL77LGEP9TC240930,https://www.cargurus.com/Cars/link/458561241
+2026,Buick,Envista,Preferred FWD,22745,,10,New,,Folsom Buick GMC,"Folsom, CA",97.4,CarGurus,KL47LAEP5TB199258,https://www.cargurus.com/Cars/link/445018758
+2023,Ford,Bronco Sport,Big Bend,22765,,29378,Certified,Great,Folsom Lake Ford,"Folsom, CA",97.6,AutoTrader,3FMCR9B61PRD96177,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794311740
+2026,Chevrolet,Trax,LT FWD,22855,,7,New,,Greenwood Chevrolet,"Hollister, CA",42.4,CarGurus,KL77LHEP9TC242294,https://www.cargurus.com/Cars/link/457639018
+2026,Nissan,Kicks,SV FWD,22877,,2,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6CE5TL380572,https://www.cargurus.com/Cars/link/439158914
+2023,Volkswagen,Taos,SE,22893,,21339,Certified,Good,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,3VVUX7B28PM352398,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785637136
+2026,Buick,Envista,Preferred FWD,22925,,7,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL47LAEP3TB246674,https://www.cargurus.com/Cars/link/460447637
+2026,Chevrolet,Trax,LT FWD,22948,,20,New,,Stevens Creek Chevrolet,"San Jose, CA",4.1,CarGurus,KL77LHEP2TC188210,https://www.cargurus.com/Cars/link/450522077
+2026,Chevrolet,Trax,LT FWD,22974,,6,New,,Stevens Creek Chevrolet,"San Jose, CA",4.1,CarGurus,KL77LHEP7TC251320,https://www.cargurus.com/Cars/link/455000577
+2025,Kia,K4,EX,22995,,7292,Certified,Great,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,3KPFU4DE3SE014562,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793234064
+2024,Kia,Niro,Wind,22995,,10126,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDCR3L12R5128457,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792864043
+2027,Toyota,Corolla,LE FWD,23077,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,JTDB4MEE1V3054809,https://www.cargurus.com/Cars/link/460746226
+2026,Chevrolet,TrailBlazer,LS,23107,25985,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL79MMSP7TB272600,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787739349
+2024,Volkswagen,Jetta,SEL,23111,,11930,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VWGM7BU5RM026693,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795702554
+2024,Hyundai,Kona,SEL,23113,,1328,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HB3AB7RU170145,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504382
+2026,Buick,Envista,Preferred FWD,23113,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEPXTB213073,https://www.cargurus.com/Cars/link/447879423
+2026,Buick,Envista,Preferred FWD,23113,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP5TB209996,https://www.cargurus.com/Cars/link/446817983
+2026,Buick,Envista,Preferred FWD,23113,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP9TB213081,https://www.cargurus.com/Cars/link/447555611
+2026,Buick,Envista,Preferred FWD,23113,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP4TB214557,https://www.cargurus.com/Cars/link/447555616
+2026,Buick,Envista,Preferred FWD,23113,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP7TB212477,https://www.cargurus.com/Cars/link/448207803
+2025,Ford,Bronco Sport,Big Bend,23211,,34750,Certified,Great,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9BN5SRE31058,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791411641
+2026,Kia,K4,LXS FWD,23257,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,3KPFT4DE0TE289083,https://www.cargurus.com/Cars/link/441031163
+2026,Nissan,Sentra,SR FWD,23377,,3,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9DV5TY287101,https://www.cargurus.com/Cars/link/449988103
+2026,Chevrolet,Trax,LT FWD,23426,,1,New,,Elk Grove Chevrolet,"Elk Grove, CA",79.0,CarGurus,KL77LHEP6TC291937,https://www.cargurus.com/Cars/link/461598771
+2026,Chevrolet,Trax,LT FWD,23426,,1,New,,Elk Grove Chevrolet,"Elk Grove, CA",79.0,CarGurus,KL77LHEPXTC289186,https://www.cargurus.com/Cars/link/460511918
+2026,Hyundai,Elantra,SEL Sport Premium FWD,23430,,5,New,,Hyundai of Gilroy,"Gilroy, CA",29.6,CarGurus,KMHLS4DG0TU227963,https://www.cargurus.com/Cars/link/454339927
+2024,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,23448,,22262,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBM6RM663289,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795527631
+2026,Chevrolet,Trailblazer,LT FWD,23452,,10,New,,Concord Chevrolet,"Concord, CA",45.4,CarGurus,KL79MPSP3TB236176,https://www.cargurus.com/Cars/link/450517105
+2023,Volkswagen,ID.4,Pro S,23483,,26426,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2GNPE83PC002985,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794347008
+2023,Volkswagen,ID.4,Pro S,23493,,22245,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2WNPE89PC047151,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794616699
+2026,Mazda,MAZDA3,2.5 S Sedan FWD,23494,,10,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPAAL2T1908581,https://www.cargurus.com/Cars/link/462039773
+2023,Volkswagen,ID.4,Pro S,23498,,32767,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2WNPE87PC042059,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795351519
+2023,Volkswagen,ID.4,Pro,23498,,27083,Certified,Good,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2DNPE80PC038622,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795141139
+2023,Volkswagen,ID.4,Pro S,23498,,30401,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2GNPE8XPC003440,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794955358
+2026,Buick,Encore GX,Preferred,23526,29385,8,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL4AMBSL1TB162122,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=776603495
+2023,MAZDA,CX-5,AWD 2.5 S w/ Select Package,23548,,43261,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM3KFBBM6P0223518,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793508276
+2027,Toyota,Corolla,LE FWD,23577,,166,New,,Santa Cruz Toyota,"Capitola, CA",24.6,CarGurus,JTDB4MEE5V3054084,https://www.cargurus.com/Cars/link/463266137
+2027,Toyota,Corolla,LE FWD,23577,,0,New,,One Toyota Of Oakland,"Oakland, CA",32.7,CarGurus,JTDB4MEE0V3055580,https://www.cargurus.com/Cars/link/461587069
+2027,Toyota,Corolla,LE FWD,23577,,0,New,,One Toyota Of Oakland,"Oakland, CA",32.7,CarGurus,JTDB4MEE3V3055914,https://www.cargurus.com/Cars/link/461918825
+2027,Toyota,Corolla,LE FWD,23577,,0,New,,One Toyota Of Oakland,"Oakland, CA",32.7,CarGurus,JTDB4MEE8V3056363,https://www.cargurus.com/Cars/link/462518591
+2027,Toyota,Corolla,LE FWD,23577,,0,New,,One Toyota Of Oakland,"Oakland, CA",32.7,CarGurus,JTDB4MEEXV3056526,https://www.cargurus.com/Cars/link/462598917
+2027,Toyota,Corolla,LE FWD,23577,,0,New,,One Toyota Of Oakland,"Oakland, CA",32.7,CarGurus,5YFB4MDEXVP44A061,https://www.cargurus.com/Cars/link/463645538
+2027,Toyota,Corolla,LE,23578,24929,8,New,,San Francisco Toyota,"San Francisco, CA",44.1,AutoTrader,JTDB4MEE1V3054700,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794512267
+2027,Toyota,Corolla,LE,23578,24929,8,New,,San Francisco Toyota,"San Francisco, CA",44.1,AutoTrader,JTDB4MEE2V3055175,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795313062
+2027,Toyota,Corolla,LE,23578,24929,8,New,,San Francisco Toyota,"San Francisco, CA",44.1,AutoTrader,JTDB4MEE9V3055206,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795313060
+2023,Jeep,Wrangler,Unlimited,23598,,32051,Certified,Great,Sunnyvale Chrysler Dodge Jeep Ram,"Sunnyvale, CA",9.6,AutoTrader,1C4JJXN65PW592607,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787482617
+2024,Volkswagen,ID.4,S,23599,,10500,Certified,Great,Dublin Volkswagen,"Dublin, CA",25.5,AutoTrader,1V25MPE80RC001144,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793846592
+2026,Volkswagen,Jetta,Sport FWD,23601,,11,New,,Boardwalk Automall,"Redwood City, CA",21.5,CarGurus,3VWBW7BU8TM036419,https://www.cargurus.com/Cars/link/439685919
+2026,Chevrolet,Trax,LT FWD,23635,,8,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL77LHEP6TC223329,https://www.cargurus.com/Cars/link/460447803
+2023,Volkswagen,ID.4,Pro S,23663,,22888,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2WNPE82PC032832,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795456352
+2027,Toyota,Corolla,LE FWD,23670,,,New,,Santa Cruz Toyota,"Capitola, CA",24.6,CarGurus,5YFB4MDE8VP523743,https://www.cargurus.com/Cars/link/461665695
+2027,Toyota,Corolla,LE FWD,23771,,,New,,Santa Cruz Toyota,"Capitola, CA",24.6,CarGurus,JTDB4MEE5V3057017,https://www.cargurus.com/Cars/link/463166494
+2023,Volkswagen,ID.4,Pro S,23783,,27351,Certified,Great,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2WNPE82PC046360,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794588348
+2023,Volkswagen,ID.4,Pro S,23807,,19009,Certified,Good,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE86PC033495,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794807806
+2026,Hyundai,Kona,SEL Sport FWD,23833,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8HF3AB8TU501505,https://www.cargurus.com/Cars/link/453978723
+2026,Nissan,Kicks,SR FWD,23877,,12,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DA9TL318314,https://www.cargurus.com/Cars/link/431944770
+2026,Nissan,Sentra,SR FWD,23877,,6,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9DV2TY269199,https://www.cargurus.com/Cars/link/451490191
+2026,Nissan,Sentra,SR FWD,23877,,4,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9DV1TY280632,https://www.cargurus.com/Cars/link/449011048
+2025,Volkswagen,Tiguan,S,23895,,10254,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVCR7RMXSM022610,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791764263
+2025,Volkswagen,Tiguan,S,23909,,10910,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVCR7RM9SM022520,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789791123
+2025,Hyundai,Kona,SEL,23920,,8829,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HB3AB2SU320121,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794333944
+2026,MAZDA,MAZDA3,s Sport,23950,,5950,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPABL2T1872079,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794549661
+2026,Buick,Envista,Preferred FWD,23958,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP7TB198712,https://www.cargurus.com/Cars/link/444931427
+2026,Buick,Envista,Preferred FWD,23958,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP8TB200452,https://www.cargurus.com/Cars/link/444931408
+2026,Buick,Envista,Preferred FWD,23958,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP0TB200526,https://www.cargurus.com/Cars/link/446520251
+2026,MAZDA,MAZDA3,s Sport,23970,,5686,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPABL1T1858643,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791666470
+2026,Buick,Encore GX,Preferred FWD,23975,,8,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL4AMBSL1TB278601,https://www.cargurus.com/Cars/link/460447630
+2023,Volkswagen,ID.4,Pro S,23987,,10947,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2VMPE81PC038037,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795561537
+2025,Hyundai,Sonata,SEL,24021,,9737,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHL64JA1SA507704,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794333943
+2027,Toyota,Corolla,LE FWD,24077,,4,New,,Fremont Toyota,"Fremont, CA",12.5,CarGurus,JTDB4MEE1V3055071,https://www.cargurus.com/Cars/link/463310675
+2026,Buick,Envista,Preferred FWD,24108,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP4TB226305,https://www.cargurus.com/Cars/link/447879405
+2026,Hyundai,Kona,SE,24121,,5,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HA3AB9TU463653,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787591637
+2027,Kia,K4,,24166,25230,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE4VE431048,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224088
+2026,Buick,Envista,Preferred FWD,24208,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP5TB228256,https://www.cargurus.com/Cars/link/447879407
+2027,Kia,K4,,24212,24835,7,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE7VE436695,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794326594
+2027,Kia,K4,,24212,24835,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE6VE432184,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793819132
+2027,Kia,K4,,24212,24835,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE2VE430447,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793819133
+2027,Kia,K4,,24212,24835,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE7VE446207,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795573589
+2027,Kia,K4,,24212,24835,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE3VE437374,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794837563
+2027,Kia,K4,,24212,24835,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DEXVE438182,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794326593
+2027,Kia,K4,,24212,24835,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE2VE436040,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224090
+2026,MAZDA,MAZDA3,s Sport,24233,,5326,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPABL5T1869418,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794549663
+2027,Hyundai,Kona,SEL Sport FWD,24233,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8HF3AB9VU505842,https://www.cargurus.com/Cars/link/454299796
+2026,Buick,Envista,Preferred FWD,24333,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP8TB223469,https://www.cargurus.com/Cars/link/453375762
+2026,Buick,Envista,Preferred FWD,24333,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP6TB223695,https://www.cargurus.com/Cars/link/450374139
+2026,Nissan,Rogue,S FWD,24373,,5,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,5N1BT3AA8TC843354,https://www.cargurus.com/Cars/link/450709798
+2026,Nissan,Sentra,SR FWD,24377,,5,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9DV4TY311047,https://www.cargurus.com/Cars/link/453100558
+2026,Nissan,Kicks,SV FWD,24395,,6,New,,Nissan of Serramonte,"Colma, CA",39.1,CarGurus,3N8AP6CE9TL410530,https://www.cargurus.com/Cars/link/463160375
+2026,Buick,Encore GX,Sport Touring,24414,29195,10,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL4AMDSL9TB227309,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=780383280
+2026,Buick,Encore GX,Sport Touring,24414,29195,6,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL4AMDSL8TB227303,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=780272145
+2026,Hyundai,Venue,SEL,24425,24940,20,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A30TU497887,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793140020
+2026,Buick,Encore GX,Sport Touring,24437,30290,7,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL4AMDSL1TB157983,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=773951267
+2026,Buick,Envista,Preferred FWD,24458,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP1TB197300,https://www.cargurus.com/Cars/link/446131654
+2026,Buick,Envista,Preferred FWD,24458,,11,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP3TB200911,https://www.cargurus.com/Cars/link/446652960
+2025,Ford,Bronco Sport,Big Bend AWD,24488,,4296,New,,Future Ford of Concord,"Concord, CA",45.4,CarGurus,3FMCR9BN3SRF58617,https://www.cargurus.com/Cars/link/441820913
+2026,Kia,K4,,24511,24635,50,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE1TE372795,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793181588
+2026,Kia,K4,,24511,24635,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE8TE415626,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793242674
+2027,Kia,K4,,24595,25230,7,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE3VE429985,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224089
+2026,Hyundai,Venue,SEL,24640,25125,13,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A39TU447411,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=770867452
+2026,Chevrolet,Trax,LS,24678,24885,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LFEP8TC292964,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793408137
+2026,Chevrolet,Trax,LS,24678,24885,4,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LFEPXTC299138,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793996634
+2026,Hyundai,Venue,SEL,24689,25165,12,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A3XTU494558,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789226640
+2026,Volkswagen,Taos,S FWD,24696,,6,New,,Volkswagen Of Fairfield,"Fairfield, CA",63.6,CarGurus,3VV5C7B25TM056295,https://www.cargurus.com/Cars/link/444780119
+2027,Toyota,Corolla,LE FWD,24706,,4,New,,Maita Toyota of Sacramento,"Sacramento, CA",93.3,CarGurus,JTDB4MEE1V3052008,https://www.cargurus.com/Cars/link/459630616
+2026,Chevrolet,Trax,LT FWD,24767,,1,New,,Elk Grove Chevrolet,"Elk Grove, CA",79.0,CarGurus,KL77LHEP5TC241336,https://www.cargurus.com/Cars/link/457553864
+2024,Kia,EV6,Light,24775,,12779,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDC34LB7R5204772,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789613437
+2026,Volkswagen,Taos,S FWD,24799,,5,New,,Volkswagen Of Fairfield,"Fairfield, CA",63.6,CarGurus,3VV5C7B25TM040968,https://www.cargurus.com/Cars/link/440026748
+2026,Buick,Envista,Preferred FWD,24828,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP2TB223757,https://www.cargurus.com/Cars/link/450374136
+2026,Buick,Envista,Preferred FWD,24828,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP3TB222309,https://www.cargurus.com/Cars/link/451419559
+2026,Buick,Envista,Preferred FWD,24828,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LAEP7TB223687,https://www.cargurus.com/Cars/link/451018209
+2026,Buick,Envista,Preferred FWD,24830,,13,New,,Folsom Buick GMC,"Folsom, CA",97.4,CarGurus,KL47LAEP2TB292769,https://www.cargurus.com/Cars/link/455857092
+2026,Buick,Envista,Preferred FWD,24830,,11,New,,Folsom Buick GMC,"Folsom, CA",97.4,CarGurus,KL47LAEP9TB285074,https://www.cargurus.com/Cars/link/454401349
+2026,Buick,Envista,Preferred FWD,24830,,13,New,,Folsom Buick GMC,"Folsom, CA",97.4,CarGurus,KL47LAEP9TB285107,https://www.cargurus.com/Cars/link/455857103
+2024,Hyundai,Ioniq 5,SEL,24835,,26942,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE3RU327050,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794705431
+2026,Hyundai,Elantra,SE,24852,24730,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG7TU308018,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224568
+2026,Hyundai,Elantra,SE,24852,24730,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG7TU307936,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794584531
+2026,Hyundai,Elantra,SE,24852,24730,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG4TU307523,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224571
+2026,Hyundai,Elantra,SE,24852,24730,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG2TU308525,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793722050
+2026,Hyundai,Kona,SEL Sport FWD,24860,,10,New,,Vallejo Hyundai,"Vallejo, CA",58.1,CarGurus,KM8HF3AB9TU492328,https://www.cargurus.com/Cars/link/450980097
+2026,Hyundai,Elantra,SE,24882,24760,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLL4DG0TU307910,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793722053
+2026,Kia,K4,,24902,25030,50,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFT4DE2TE390352,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786774928
+2024,Kia,Niro,Wave,24903,,10715,Certified,Great,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDCT3L15R5082494,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794707180
+2026,Chevrolet,Trax,Activ FWD,24916,,8,New,,Concord Chevrolet,"Concord, CA",45.4,CarGurus,KL77LKEP6TC220721,https://www.cargurus.com/Cars/link/455603166
+2025,Hyundai,Sonata,SEL,24921,,10999,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHL64JA0SA474484,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793880407
+2024,Subaru,Crosstrek,2.0i Premium,24922,,14758,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF2GUADC3R8296614,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791781224
+2023,Toyota,bZ4X,AWD,24981,,19514,Certified,Great,Fremont Toyota,"Fremont, CA",12.6,AutoTrader,JTMABACA6PA027975,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795003199
+2026,Hyundai,Tucson,SE FWD,24988,,6158,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMJA3DE0TH671357,https://www.cargurus.com/Cars/link/460761322
+2024,Kia,EV6,Light,24995,,15194,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDC34LA4R5622214,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792061177
+2024,Honda,Accord,EX,24995,,26941,Certified,Great,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,1HGCY1F35RA037034,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792392832
+2026,Hyundai,Venue,SEL,24997,24875,11,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A38TU503189,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793997083
+2024,Hyundai,Ioniq 5,SEL,25010,,27769,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE4RU291563,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794764300
+2024,Hyundai,Ioniq 5,SE,25011,,11507,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KM4DE2RU311652,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793091967
+2024,Hyundai,Ioniq 5,SEL,25035,,23003,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE8RU326511,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795528197
+2026,Hyundai,Venue,SEL,25062,24940,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A38TU503158,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794409735
+2025,Nissan,Sentra,SR FWD,25099,,1674,New,,MY Nissan,"Salinas, CA",44.3,CarGurus,3N1AB8DV2SY218617,https://www.cargurus.com/Cars/link/406183102
+2024,Hyundai,Ioniq 5,SEL,25103,,24717,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE3RU316436,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795344623
+2026,Hyundai,Venue,SEL,25107,24985,9,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHRC8A34TU487461,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785925458
+2026,Hyundai,Venue,SEL,25107,24985,11,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHRC8A36TU485629,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787528451
+2026,MAZDA,MAZDA3,s Sport,25121,,12082,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPAKL0T1850372,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794893423
+2025,Honda,Accord,LX,25170,,14839,Certified,Great,Capitol Honda,"San Jose, CA",4.1,AutoTrader,1HGCY1F22SA006952,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792470936
+2026,Chevrolet,Trax,LT,25202,27080,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LHEP5TC168145,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=777851955
+2026,Chevrolet,Trax,RS,25231,25390,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LGEP6TC137433,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=776245889
+2026,Chevrolet,Trax,RS,25231,25390,6,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LGEP2TC289256,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793505973
+2026,Hyundai,Kona,SEL Premium FWD,25233,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8HD3A33TU501264,https://www.cargurus.com/Cars/link/454299812
+2026,Chevrolet,Trax,LT FWD,25249,,5,New,,Tracy Chevrolet,"Tracy, CA",37.7,CarGurus,KL77LHEP8TC237698,https://www.cargurus.com/Cars/link/454338965
+2026,Hyundai,Venue,SEL,25282,25160,15,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHRC8A3XTU494124,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793997082
+2027,Volkswagen,Jetta,S,25283,25616,7,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VW5W7BU3VM006163,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789583976
+2026,Chevrolet,Trailblazer,LS FWD,25292,,0,New,,Sanborn Chevrolet Incorporated,"Lodi, CA",64.2,CarGurus,KL79MMSLXTB186811,https://www.cargurus.com/Cars/link/446085600
+2027,Subaru,Crosstrek,AWD,25308,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHB63V3702351,https://www.cargurus.com/Cars/link/462432180
+2027,Subaru,Crosstrek,AWD,25361,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHB61V3702848,https://www.cargurus.com/Cars/link/462432185
+2026,Honda,Civic,LX,25381,25990,5,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HGFE2F27TH641471,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793100432
+2026,Hyundai,Elantra,SEL Sport,25394,26090,14,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG6TU298708,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791609423
+2026,Hyundai,Elantra,SEL Sport,25394,26090,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG2TU299662,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791990114
+2025,Toyota,Corolla,SE,25399,,7142,Certified,Great,Magnussen's Toyota of Palo Alto,"Palo Alto, CA",13.1,AutoTrader,5YFS4MCEXSP242640,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793527692
+2024,Subaru,Crosstrek,2.0i Premium,25431,,17471,Certified,Great,Premier Subaru of Fremont,"Fremont, CA",12.3,AutoTrader,JF2GUADC4R8322119,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793938951
+2026,Hyundai,Elantra,SEL Sport,25457,26160,8,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG6TU298692,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791305924
+2026,Toyota,Corolla Cross,L FWD,25472,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,7MUAAAAG0TV226551,https://www.cargurus.com/Cars/link/459518359
+2026,Hyundai,Elantra,SEL Sport,25497,26205,11,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG7TU300482,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791781336
+2024,Hyundai,Ioniq 5,SEL,25535,,16187,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE8RU325214,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307316
+2024,Hyundai,Ioniq 5,SEL,25535,,18254,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE8RU320921,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307317
+2024,Hyundai,Ioniq 5,SEL,25535,,22284,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE4RU334153,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307314
+2026,Mazda,MAZDA3,2.5 S Select Sport Hatchback FWD,25569,,6,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPAKL4T1908547,https://www.cargurus.com/Cars/link/462039774
+2026,Buick,Envista,Sport Touring,25573,28490,10,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP0TB245116,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788075692
+2023,Ford,Explorer,XLT,25592,,44226,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,1FMSK7DH4PGB87798,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176808
+2026,Kia,K4,EX,25600,25735,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU4DE4TE413353,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793242671
+2026,Kia,K4,EX,25600,25735,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU4DE4TE416740,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791763589
+2026,Kia,K4,EX,25600,25735,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU4DE7TE414402,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792017054
+2026,Hyundai,Tucson,SE,25610,,11359,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,5NMJA3DE2TH634374,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793412707
+2023,Ford,Mustang Mach-E,Select,25622,,31567,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK1R41PMA63100,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176806
+2026,Chevrolet,TrailBlazer,LT,25682,28560,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL79MRSLXTB218153,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=781114308
+2023,Volkswagen,ID.4,Pro S Plus,25723,,28990,Certified,Good,Sunnyvale Volkswagen,"Sunnyvale, CA",6.7,AutoTrader,1V2JNPE83PC055871,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794919636
+2027,Subaru,Crosstrek,AWD,25736,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHB64V3702763,https://www.cargurus.com/Cars/link/462536152
+2027,Volkswagen,Jetta,S,25738,25616,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VW5W7BU7VM009289,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791323284
+2024,Jeep,Wrangler,Unlimited Sport,25800,,59980,Certified,Great,Normandin Chrysler Jeep Dodge Ram,"San Jose, CA",4.1,AutoTrader,1C4PJXDNXRW329356,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795444524
+2026,Chevrolet,TrailBlazer,LS,25802,26680,4,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL79MMSL7TB332338,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794600739
+2026,Buick,Envista,Sport Touring FWD,25820,,7,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL47LBEP6TB295857,https://www.cargurus.com/Cars/link/460447745
+2026,Kia,K4,GT-Line,25857,26735,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,3KPFW4DE2TE407075,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791812486
+2026,Hyundai,Elantra,SEL Sport,25874,26590,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG6TU301316,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792218514
+2026,Hyundai,Elantra,SEL Sport,25874,26590,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DGXTU299697,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791990111
+2026,Hyundai,Elantra,SEL Sport,25874,26590,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG2TU301328,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792218515
+2026,Nissan,Kicks,SR AWD,25877,,6,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DB9TL401962,https://www.cargurus.com/Cars/link/447852552
+2026,Nissan,Kicks,SR FWD,25877,,10,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DC4TL374050,https://www.cargurus.com/Cars/link/439158913
+2026,Nissan,Kicks,SR AWD,25877,,7,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DB5TL413333,https://www.cargurus.com/Cars/link/449988105
+2026,Nissan,Sentra,SL FWD,25877,,4,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9EW7TY293957,https://www.cargurus.com/Cars/link/450709781
+2026,Nissan,Sentra,SL FWD,25877,,4,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9EW5TY308813,https://www.cargurus.com/Cars/link/452999726
+2026,Nissan,Kicks,SR AWD,25877,,4,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DB4TL401643,https://www.cargurus.com/Cars/link/450603774
+2026,Nissan,Sentra,SL FWD,25877,,4,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9EW9TY285911,https://www.cargurus.com/Cars/link/450311250
+2023,Nissan,Murano,SL,25900,,21900,Certified,Great,Stevens Creek Nissan,"Santa Clara, CA",5.5,AutoTrader,5N1AZ2CS9PC135629,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789493575
+2025,Hyundai,Sonata,SEL Convenience FWD,25900,,59,New,,Merced Kia,"Merced, CA",76.5,CarGurus,KMHL14JA6SA450348,https://www.cargurus.com/Cars/link/405241616
+2025,Hyundai,Elantra,N Line FWD,25900,,180,New,,Merced Kia,"Merced, CA",76.5,CarGurus,KMHLR4DF3SU971638,https://www.cargurus.com/Cars/link/408154089
+2026,Hyundai,Elantra,N Line,25937,26660,11,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG3TU299329,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791781332
+2026,Buick,Envista,Sport Touring,25951,31065,0,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP6TB258212,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=784985346
+2026,Buick,Encore GX,Preferred FWD,25978,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL4AMBSL0TB231494,https://www.cargurus.com/Cars/link/449457332
+2026,Buick,Encore GX,Preferred FWD,25978,,3,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL4AMBSL8TB231601,https://www.cargurus.com/Cars/link/451018216
+2026,Honda,HR-V,LX,25980,,8708,Certified,Good,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,3CZRZ1H37TM719680,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793492091
+2026,Kia,K4,EX,25991,26130,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU4DE0TE414175,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793242673
+2026,Kia,K4,EX,25991,26130,10,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU4DE0TE414967,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793819131
+2024,Kia,EV6,Light,25995,,14184,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDC34LA8R5215142,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792061176
+2027,Toyota,Corolla,SE,25999,27369,0,New,,Modesto Toyota,"Modesto, CA",55.2,AutoTrader,5YFS4MCE6VP303339,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793301309
+2026,Mazda,CX-30,2.5 S AWD,26004,,5,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,3MVDMBAL8TM233411,https://www.cargurus.com/Cars/link/459890158
+2026,Nissan,Rogue,S FWD,26013,,40,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,5N1BT3AA1TC745637,https://www.cargurus.com/Cars/link/436228484
+2026,Hyundai,Sonata,SEL,26021,,9909,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHL64JAXTA533073,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794333945
+2024,Hyundai,Ioniq 5,SEL,26035,,10081,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE4RU325968,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307319
+2024,Hyundai,Ioniq 5,SEL,26035,,18445,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KN4DE0RU326101,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307320
+2026,MAZDA,MAZDA3,s,26043,26635,50,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM1BPAAL7T1892930,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788914552
+2026,Nissan,Rogue,S FWD,26047,,2,New,,Concord Nissan,"Concord, CA",45.5,CarGurus,5N1BT3AA0TC678786,https://www.cargurus.com/Cars/link/426190016
+2024,Hyundai,Ioniq 5,SEL,26113,,19340,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE6RU316155,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504374
+2024,Hyundai,Ioniq 5,SEL,26113,,19721,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE7RU325740,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504380
+2024,Hyundai,Ioniq 5,SEL,26113,,21112,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE3RU325069,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504369
+2024,Hyundai,Ioniq 5,SEL,26120,,22430,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE6RU328676,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794764294
+2023,Hyundai,Santa Fe,SEL Convenience,26120,,39579,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8S6DA21PU096895,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793091963
+2023,Hyundai,Santa Fe,SEL,26121,,13533,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,5NMS3DAJ6PH612972,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793351777
+2024,Subaru,Outback,Onyx Edition XT,26121,,54303,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4BTGLD4R3146691,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790934231
+2024,Subaru,Forester,Sport,26122,,41755,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF2SKAGC5RH420457,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793560651
+2026,Mazda,MAZDA3,2.5 S Preferred Sedan FWD,26176,,5,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPACL8T1901485,https://www.cargurus.com/Cars/link/459890156
+2026,Chevrolet,Trax,LT,26202,27080,6,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LHEP1TC280117,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794700884
+2027,Toyota,Corolla,SE FWD,26205,,2,New,,Maita Toyota of Sacramento,"Sacramento, CA",93.3,CarGurus,JTDS4MCE5V3534015,https://www.cargurus.com/Cars/link/458583593
+2026,Nissan,Altima,2.5 SV FWD,26219,,25,New,,Tracy Nissan,"Tracy, CA",37.6,CarGurus,1N4BL4DV3TN341435,https://www.cargurus.com/Cars/link/448876810
+2026,Nissan,Altima,2.5 SV FWD,26219,,6,New,,Tracy Nissan,"Tracy, CA",37.6,CarGurus,1N4BL4DV3TN359854,https://www.cargurus.com/Cars/link/456609793
+2026,Honda,HR-V,Sport,26233,,9874,Certified,Great,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,3CZRZ1H59TM745411,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792187764
+2026,Mazda,MAZDA3,2.5 S Select Sport Hatchback FWD,26233,,6,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPAKL0T1908626,https://www.cargurus.com/Cars/link/462360311
+2026,Mazda,MAZDA3,2.5 S Select Sport Hatchback FWD,26237,,10,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPAKL9T1907118,https://www.cargurus.com/Cars/link/461544373
+2026,Hyundai,Elantra,SEL Sport,26277,26555,16,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DG8TU257772,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787046256
+2026,Nissan,Sentra,SR FWD,26377,,5,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N1AB9DV3TY308592,https://www.cargurus.com/Cars/link/452999721
+2025,Ford,Bronco Sport,Big Bend,26402,,5852,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMCR9BN4SRF06140,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176815
+2023,Mercedes-Benz,CLA 250,,26460,,40139,Certified,Great,Mercedes-Benz of Fremont,"Fremont, CA",12.5,AutoTrader,W1K5J4GB3PN334835,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791931179
+2023,Mercedes-Benz,EQB 300,4MATIC,26471,,29913,Certified,Great,Mercedes-Benz of Fremont,"Fremont, CA",12.5,AutoTrader,W1N9M0KB6PN066651,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792616666
+2026,Toyota,Corolla,SE,26482,,4482,Certified,Good,Fremont Toyota,"Fremont, CA",12.6,AutoTrader,JTDS4MCE5T3531161,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794230945
+2023,Ford,Mustang Mach-E,Select,26495,,24854,Certified,Good,Sunnyvale Ford,"Sunnyvale, CA",7.7,AutoTrader,3FMTK1RM4PMA29376,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792665921
+2023,MAZDA,CX-5,Carbon Edition,26510,,39215,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM3KFBCM3P0174860,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794282911
+2024,Hyundai,Ioniq 5,SEL,26535,,18703,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KNDDF0RU234592,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793509144
+2026,Kia,K5,GT-Line FWD,26566,,12,New,,Kia of Vacaville,"Vacaville, CA",72.3,CarGurus,KNAG64J78T5504235,https://www.cargurus.com/Cars/link/448713571
+2027,Toyota,Corolla,SE FWD,26573,,5,New,,Maita Toyota of Sacramento,"Sacramento, CA",93.3,CarGurus,JTDS4MCE2V3534442,https://www.cargurus.com/Cars/link/460398153
+2023,Jeep,Wrangler,Unlimited,26598,,15127,Certified,Great,Stevens Creek Chrysler Jeep Dodge,"San Jose, CA",4.8,AutoTrader,1C4JJXN68PW692829,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786944897
+2026,Buick,Envista,Sport Touring FWD,26603,,12,New,,Elk Grove Buick GMC,"Elk Grove, CA",78.9,CarGurus,KL47LBEP1TB303847,https://www.cargurus.com/Cars/link/458286064
+2024,Hyundai,Ioniq 6,SEL,26610,,10899,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHM34AA9RA070428,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793326971
+2026,Chevrolet,Trax,RS,26617,27495,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LJEP8TC287458,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793408134
+2026,Chevrolet,Trax,RS,26617,27495,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LJEP2TC287231,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793408135
+2024,Subaru,Outback,Onyx Edition XT,26622,,47918,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4BTGLD1R3119173,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790853318
+2026,Buick,Envista,Sport Touring,26625,30875,13,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP0TB281193,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786388365
+2026,MAZDA,MAZDA3,s,26682,26560,50,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPAAL2T1891474,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788366549
+2026,Hyundai,Elantra,SEL Sport Premium,26682,26560,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG3TU227987,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786894382
+2026,Hyundai,Elantra,SEL Sport Premium,26682,26560,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG6TU227711,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786700676
+2026,Hyundai,Elantra,SEL Sport Premium,26682,26560,3,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG0TU227879,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786700681
+2025,Hyundai,Kona,SE,26721,,4474,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HB3A78SU028596,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791063394
+2026,MAZDA,MAZDA3,s,26757,26635,50,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM1BPAAL4T1891475,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788366553
+2027,Nissan,Sentra,SR,26814,27540,7,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9DV9VY215434,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790501214
+2023,Ford,Explorer,XLT,26822,,35134,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,1FMSK7DHXPGB82718,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176807
+2027,Chevrolet,Bolt,LT FWD,26855,,4,New,,Greenwood Chevrolet,"Hollister, CA",42.4,CarGurus,1G1FY6EV8VF123598,https://www.cargurus.com/Cars/link/458298029
+2023,Jeep,Wrangler,Unlimited Sahara,26921,,29252,Certified,Great,Stevens Creek Chrysler Jeep Dodge,"San Jose, CA",4.8,AutoTrader,1C4JJXP64PW650610,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789949868
+2027,MINI,Cooper,2-Door Hardtop,26972,26850,10,New,,MINI of Stevens Creek,"Santa Clara, CA",4.9,AutoTrader,WMW13GD01V2Z40458,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794286660
+2026,Jeep,Compass,Latitude,26989,,4303,Certified,Great,Sunnyvale Chrysler Dodge Jeep Ram,"Sunnyvale, CA",9.6,AutoTrader,3C4NJDBN4TT159386,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=779820518
+2023,Jeep,Grand Cherokee,Laredo,26991,,14430,Certified,Great,Stevens Creek Chrysler Jeep Dodge,"San Jose, CA",4.8,AutoTrader,1C4RJHAG7P8909699,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788584485
+2024,Kia,EV6,Wind,26995,,17841,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDC34LA8R5619350,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793841777
+2024,Hyundai,Ioniq 5,SEL,27010,,17173,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE2RU279489,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794764301
+2026,Nissan,Altima,2.5 SR FWD,27053,,6,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,1N4BL4CV2TN363363,https://www.cargurus.com/Cars/link/462148762
+2026,Honda,Civic,Sport,27073,27890,105,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HGFE2F5XTH623931,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791091567
+2026,Kia,K4,GT-Line,27085,27235,10,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFU5DE1TE384187,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786336030
+2026,Volkswagen,Taos,S 4Motion,27095.9,,7,New,,VW Marin,"San Rafael, CA",55.1,CarGurus,3VV8C7B21TM071986,https://www.cargurus.com/Cars/link/451290292
+2024,Hyundai,Ioniq 5,SEL,27113,,10019,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE2RU326083,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504375
+2024,Hyundai,Ioniq 5,SEL,27113,,16864,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KN4DE6RU326782,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504373
+2023,Hyundai,Santa Fe,SEL Convenience,27113,,33072,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8S6DA24PU091559,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504372
+2027,Nissan,Sentra,SR,27113,27865,5,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9DV0VY213216,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789255365
+2027,Nissan,Sentra,SR,27113,27865,7,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9DV1VY204203,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790156660
+2027,Nissan,Sentra,SR,27113,27865,5,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9DV0VY203141,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790156661
+2026,Hyundai,Elantra,SEL Sport Premium,27182,27060,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG9TU227850,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786799317
+2026,Hyundai,Elantra,SEL Sport Premium,27182,27060,11,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG5TU227845,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786700730
+2026,Hyundai,Elantra,SEL Sport Premium,27182,27060,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG6TU227787,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786700675
+2026,Hyundai,Elantra,SEL Sport Premium,27182,27060,10,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLS4DG4TU227903,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786700678
+2027,Kia,Seltos,S FWD,27210,,,New,,Kia Marin,"Novato, CA",63.7,CarGurus,KNDEL3D36V5027667,https://www.cargurus.com/Cars/link/457315233
+2023,Jeep,Wrangler,Unlimited Sahara,27283,,28826,Certified,Great,Sunnyvale Chrysler Dodge Jeep Ram,"Sunnyvale, CA",9.6,AutoTrader,1C4JJXP69PW556870,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795161890
+2027,Volkswagen,Taos,S,27324,28335,4,New,,Volkswagen Marin,"San Rafael, CA",55.3,AutoTrader,3VV5D7B25VM018436,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793771847
+2025,Toyota,Corolla,LE,27334,,13523,Certified,Good,Capitol Toyota (CA),"San Jose, CA",4.1,AutoTrader,JTDBCMFE6S3092744,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794441373
+2027,Nissan,Sentra,SR,27346,28125,6,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9DV2VY202623,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789177253
+2026,Buick,Encore GX,Sport Touring,27408,33380,9,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL4AMESL7TB085922,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=765086368
+2026,Chevrolet,Trax,RS,27412,28290,4,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LJEP9TC287324,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611284
+2026,Chevrolet,Trax,ACTIV,27412,28290,4,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LKEP4TC287558,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611283
+2026,Chevrolet,Trax,ACTIV,27412,28290,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LKEP7TC287537,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611281
+2026,Chevrolet,Trax,ACTIV,27507,28885,6,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,KL77LKEP1TC225759,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787139978
+2027,Honda,HR-V,LX,27522,28150,4,New,,Tracy Honda,"Tracy, CA",37.6,AutoTrader,3CZRZ1H30VM726540,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794125699
+2026,Toyota,Corolla Cross,L,27572,27328,5,New,,Envision Toyota of Milpitas,"Milpitas, CA",6.0,AutoTrader,7MUAAAAG4TV232210,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793543074
+2026,MAZDA,CX-30,AWD 2.5 S,27573,28170,3,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBAL4TM225953,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788613128
+2023,Ford,Mustang Mach-E,Premium,27577,,44402,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3RM5PMA31360,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176521
+2027,Chevrolet,Bolt,LT,27583,29961,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,1G1FY6EV8VF124654,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792941463
+2027,Chevrolet,Bolt,LT,27583,29961,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,1G1FY6EV2VF124665,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792323130
+2027,Chevrolet,Bolt,LT,27583,29961,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,1G1FY6EV6VF124653,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792323129
+2025,Hyundai,Ioniq 6,SEL,27622,,16377,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHM34AA7SA083328,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792497151
+2026,Hyundai,Kona,SEL Premium,27635,,4875,Certified,Good,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HD3A32TU366911,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793913009
+2026,Hyundai,Elantra,Hybrid,27647,27525,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJXTU223277,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791763694
+2024,Mercedes-Benz,EQB 250+,,27695,,22541,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1N9M0CB0RN090719,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791411335
+2026,Hyundai,Elantra,Hybrid,27697,27575,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJXTU226146,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793386962
+2026,Hyundai,Elantra,Hybrid,27697,27575,9,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJ7TU225357,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793386964
+2026,Hyundai,Elantra,Hybrid,27697,27575,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJ5TU225051,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792435274
+2025,Hyundai,Sonata,SEL Convenience FWD,27700,,1,New,,Hyundai of San Bruno,"San Bruno, CA",35.6,CarGurus,KMHL14JA0SA487041,https://www.cargurus.com/Cars/link/412828419
+2026,Kia,K5,GT-Line FWD,27706,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNAG64J77T5518255,https://www.cargurus.com/Cars/link/454075030
+2026,Hyundai,Elantra,Hybrid,27707,27585,9,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJ7TU225648,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793386963
+2026,Hyundai,Elantra,Hybrid,27712,27590,5,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLM4DJ7TU225844,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792708747
+2026,Kia,K5,GT-Line FWD,27731,,11,New,,Dublin Kia,"Dublin, CA",25.5,CarGurus,KNAG64J70T5508151,https://www.cargurus.com/Cars/link/451230792
+2026,Toyota,Corolla Cross,L,27732,27488,5,New,,Envision Toyota of Milpitas,"Milpitas, CA",6.0,AutoTrader,7MUAAAAG7TV233058,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795491532
+2027,Hyundai,Kona,SE,27747,27625,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HA3ABXVU540100,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224572
+2026,Nissan,Kicks,SR FWD,27795,,7,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,3N8AP6DA0TL324289,https://www.cargurus.com/Cars/link/429260614
+2026,MAZDA,MAZDA3,s Sport,27797,27675,4,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPABL2T1908532,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794093805
+2024,Mercedes-Benz,EQB 250+,,27803,,22856,Certified,Great,Mercedes-Benz of Fremont,"Fremont, CA",12.5,AutoTrader,W1N9M0CB1RN096707,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791931178
+2026,MAZDA,CX-30,AWD 2.5 S,27851,,2236,Certified,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,3MVDMBCL5TM101610,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794066337
+2027,Hyundai,Kona,SE,27857,27735,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HA3AB5VU539369,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793722055
+2026,Nissan,Kicks,SR AWD,27877,,43,New,,Folsom Lake Nissan,"Folsom, CA",97.3,CarGurus,3N8AP6DB2TL322973,https://www.cargurus.com/Cars/link/426237283
+2023,Subaru,Forester,Limited,27922,,12541,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF2SKAPC7PH543058,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794172520
+2024,Hyundai,Kona,Limited,27935,,5470,Certified,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HE3A63RU013318,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795307315
+2026,Honda,Civic,Sport,27960,,5697,Certified,Good,Capitol Honda,"San Jose, CA",4.1,AutoTrader,2HGFE2F58TH573028,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791647388
+2026,Chevrolet,Trailblazer,RS AWD,27961,,6,New,,Stevens Creek Chevrolet,"San Jose, CA",4.1,CarGurus,KL79MUSL8TB219479,https://www.cargurus.com/Cars/link/448315106
+2026,Hyundai,Tucson Hybrid,Blue AWD,27988,,3683,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,KM8JADD17TU482468,https://www.cargurus.com/Cars/link/462960158
+2024,Kia,EV6,Wind,27995,,9233,Certified,Good,Stevens Creek KIA,"San Jose, CA",4.2,AutoTrader,KNDC34LA7R5622000,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793841774
+2024,MINI,Cooper Countryman,S,27995,,29377,Certified,Good,MINI of Stevens Creek,"Santa Clara, CA",4.9,AutoTrader,WMZ53BR09R3R63194,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794507727
+2024,MAZDA,CX-90,Plug-In Hybrid w/ Preferred,27995,,17974,Certified,Great,Fremont Mazda,"Newark, CA",14.3,AutoTrader,JM3KKBHA3R1151277,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791886560
+2023,Mercedes-Benz,GLA 250,4MATIC,27998,,28285,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1N4N4HBXPJ452227,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794507628
+2026,Hyundai,Ioniq 5,SE,28021,,9312,Certified,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,7YAKM4DB8TY051826,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794764302
+2023,Ford,Mustang Mach-E,Premium,28022,,26809,Certified,Great,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R48PMA72274,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791085408
+2026,Mazda,MAZDA3,2.5 S Preferred Hatchback FWD,28104,,6,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPALL5T1908538,https://www.cargurus.com/Cars/link/462039777
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28105,28680,3,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL5T1901489,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791066701
+2027,Volkswagen,Jetta,SE,28116,29781,9,New,,Volkswagen Marin,"San Rafael, CA",55.3,AutoTrader,3VW7W7BU8VM006992,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790160595
+2023,Hyundai,Santa Fe,Limited,28121,,41334,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8S7DA23PU096653,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792498881
+2024,Subaru,Crosstrek,2.5i Wilderness,28122,,16598,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4GUHU65R3760481,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795114550
+2026,Hyundai,Elantra,Limited,28130,28955,12,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLP4DG7TU240341,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783161155
+2025,Toyota,Camry,LE FWD,28144,,81,New,,Tracy Toyota,"Tracy, CA",37.6,CarGurus,4T1DAACKXSU623571,https://www.cargurus.com/Cars/link/420357074
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28153,28740,2,New,,Concord Mazda,"Concord, CA",45.4,AutoTrader,JM1BPACL3T1910904,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795529384
+2024,Volkswagen,Atlas,SE,28159,,30897,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,1V2WR2CA8RC516326,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795702555
+2023,BMW,X1,xDrive28i,28166,,44752,Certified,Great,Stevens Creek BMW,"Santa Clara, CA",5.0,AutoTrader,WBX73EF08P5X07003,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791703743
+2026,Hyundai,Elantra,Hybrid,28197,28075,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJ5TU225390,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793386966
+2026,Hyundai,Elantra,Hybrid,28252,28130,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLM4DJ6TU226015,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792978316
+2026,Buick,Envista,Sport Touring,28280,31370,6,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP0TB281372,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788774403
+2026,Buick,Envista,Sport Touring,28280,31370,17,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP6TB281022,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789517713
+2027,Kia,K4,GT-Line,28286,29035,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KPFW4DE8VE442951,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795343531
+2026,Chevrolet,Trax,Activ FWD,28290,,11,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,KL77LKEP3TC302227,https://www.cargurus.com/Cars/link/462173674
+2024,Mercedes-Benz,EQB 250+,,28303,,25470,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1N9M0CB6RN090935,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793039855
+2026,Hyundai,Elantra,Limited,28318,29145,17,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLP4DG4TU279226,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793025740
+2026,Hyundai,Elantra,Limited,28318,29145,14,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLP4DG5TU271703,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791305923
+2026,Hyundai,Elantra,Limited,28318,29145,13,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLP4DG9TU271736,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791593387
+2026,Subaru,Crosstrek,2.5i Premium,28330,30016,7,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4GUHD64T3723848,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=767608450
+2024,Toyota,Corolla Cross,LE,28334,,21920,Certified,Great,Capitol Toyota (CA),"San Jose, CA",4.1,AutoTrader,7MUCAABG7RV108920,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793998625
+2026,MAZDA,CX-30,AWD 2.5 S,28348,,5542,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBCLXTM109315,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792944098
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28373,29015,4,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL4T1901483,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791609505
+2026,Buick,Envista,Sport Touring FWD,28375,,5,New,,Fremont Buick GMC,"Fremont, CA",12.6,CarGurus,KL47LBEP9TB317219,https://www.cargurus.com/Cars/link/461480184
+2027,Kia,K5,LXS,28383,29135,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNAG24J75V5552337,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795249392
+2027,Kia,K5,LXS,28383,29135,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNAG24J74V5553012,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795544846
+2027,Hyundai,Kona,SE,28387,28265,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HA3AB8VU540645,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224567
+2027,Hyundai,Kona,SE,28442,28320,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HA3AB2VU539569,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793722059
+2027,Volkswagen,Taos,S,28457,28335,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VV5D7B22VM020905,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611599
+2027,Volkswagen,Taos,S,28457,28335,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VV5D7B29VM018245,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611595
+2027,Volkswagen,Taos,S,28457,28335,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VV5D7B28VM020567,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611596
+2025,Nissan,Altima,2.5 SR FWD,28499,,12,New,,Hanlees Hilltop Nissan,"San Pablo, CA",50.7,CarGurus,1N4BL4CV4SN415770,https://www.cargurus.com/Cars/link/427760244
+2023,Ford,Mustang Mach-E,Premium,28522,,35328,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R79PMA58250,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176805
+2026,Subaru,Crosstrek,Premium AWD,28522,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHD66T3806889,https://www.cargurus.com/Cars/link/454921719
+2025,Volkswagen,Tiguan,SE,28547,,9901,Certified,Great,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVER7RMXSM024978,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791928054
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28617,29275,4,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL0T1901349,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791608859
+2027,Hyundai,Kona,SEL Sport,28618,29280,9,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HF3AB5VU533492,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793025783
+2023,Subaru,Forester,Wilderness,28622,,20253,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF2SKAMC6PH551026,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795344251
+2027,Hyundai,Kona,SE,28643,28840,13,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8HACABXVU505721,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787046250
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28717,29400,2,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL2T1904415,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791763163
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,28717,29400,4,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM1BPACL3T1904505,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791896125
+2026,MAZDA,CX-30,AWD 2.5 S,28748,,3974,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBCL5TM116608,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793896186
+2026,Buick,Encore GX,Preferred AWD,28750,,5,New,,Fremont Buick GMC,"Fremont, CA",12.6,CarGurus,KL4AMCSL0TB305020,https://www.cargurus.com/Cars/link/458970262
+2026,Nissan,Rogue,Dark Armor FWD,28752,,,New,,Cardinale Nissan,"Seaside, CA",50.0,CarGurus,5N1BT3BA3TC885543,https://www.cargurus.com/Cars/link/458013059
+2026,Hyundai,Elantra,Limited,28798,29645,23,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLP4DG4TU281932,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792653279
+2025,Jeep,Wrangler,Unlimited Sport S 4xe,28800,,14877,Certified,Great,Normandin Chrysler Jeep Dodge Ram,"San Jose, CA",4.1,AutoTrader,1C4RJXN60SW578657,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788804669
+2026,Subaru,Impreza,2.0i Sport,28818,30196,5,New,,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF1GUAFC1T8251888,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=779458974
+2027,Kia,K5,LXS,28863,29630,10,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNAG24J74V5552376,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795249393
+2024,Mercedes-Benz,EQB 250+,,28868,,13348,Certified,Great,Mercedes-Benz of Fremont,"Fremont, CA",12.5,AutoTrader,W1N9M0CBXRN093837,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793620472
+2026,Subaru,Crosstrek,Premium AWD,28876,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHD66T3817469,https://www.cargurus.com/Cars/link/457798910
+2024,Mercedes-Benz,EQB 250+,,28888,,18574,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1N9M0CB0RN092132,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786789516
+2027,Toyota,Corolla,LE,28910,26671,5,New,,Envision Toyota of Milpitas,"Milpitas, CA",6.0,AutoTrader,JTDB4MEE9V3054590,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794755092
+2026,Kia,Niro,EX FWD,28943,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCR3LE0T5386941,https://www.cargurus.com/Cars/link/454075028
+2026,Hyundai,Santa Fe Hybrid,SE FWD,28977,,5803,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMP14G12TH096283,https://www.cargurus.com/Cars/link/448048013
+2026,Hyundai,Santa Fe Hybrid,SE FWD,28988,,5737,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMP14G19TH112950,https://www.cargurus.com/Cars/link/462960155
+2023,Ford,Mustang Mach-E,Premium,28989,,26981,Certified,Good,Sunnyvale Ford,"Sunnyvale, CA",7.7,AutoTrader,3FMTK3RMXPMA33668,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792694814
+2023,Mercedes-Benz,GLB 250,,28995,,30462,Certified,Good,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1N4M4GB7PW332411,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791073204
+2026,Jeep,Compass,Latitude 4WD,29022,,10,New,,Cabral Chrysler Jeep Dodge Ram,"Manteca, CA",49.6,CarGurus,3C4NJDBN3TT152770,https://www.cargurus.com/Cars/link/429313674
+2027,Kia,K4,EX,29035,29035,5,New,,Folsom Lake KIA,"Folsom, CA",97.5,AutoTrader,3KPFW4DE4VE438699,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794384630
+2024,Honda,Civic,Touring,29057,,15866,Certified,Good,Capitol Honda,"San Jose, CA",4.1,AutoTrader,2HGFE1F92RH306411,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794167679
+2023,Ford,Explorer,XLT,29084,,23385,Certified,Great,Folsom Lake Ford,"Folsom, CA",97.6,AutoTrader,1FMSK8DH3PGB87006,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794071915
+2025,Hyundai,Ioniq 6,Limited,29113,,19892,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHM34AA5SA082954,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504379
+2023,Ford,Mustang Mach-E,Premium,29117,,23788,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R78PMA13199,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793245610
+2026,GMC,Terrain,Elevation FWD,29190,,115,New,,Hanlees Hilltop GMC,"Richmond, CA",50.8,CarGurus,3GKALMEG3TL440380,https://www.cargurus.com/Cars/link/443230077
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29207,29820,5,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL9TM238633,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794475782
+2027,Volkswagen,Jetta,SE,29233,29111,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VW7W7BU1VM008308,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793611590
+2026,Toyota,Corolla Cross,LE FWD,29237,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,7MUBAAAG2TV225664,https://www.cargurus.com/Cars/link/459222388
+2025,Ford,Bronco Sport,Big Bend AWD,29239,,,New,,Greenwood Ford,"Hollister, CA",42.3,CarGurus,3FMCR9BN9SRF63062,https://www.cargurus.com/Cars/link/434064445
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29255,29880,5,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,3MVDMBBL1TM236181,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793025998
+2026,Subaru,Impreza,2.0i Sport,29256,30634,5,New,,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF1GUAFC1T8261868,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783268532
+2023,Mercedes-Benz,CLA 250,,29260,,15418,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1K5J4GB8PN337150,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791432009
+2026,Hyundai,Elantra,Limited,29267,29145,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLP4DGXTU279991,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791609921
+2026,Hyundai,Elantra,Limited,29267,29145,15,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLP4DG2TU281766,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791926337
+2026,Hyundai,Elantra,Limited,29267,29145,14,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLP4DG6TU278515,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792708761
+2023,Ford,Mustang Mach-E,Premium,29327,,26057,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R73PMA68725,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176811
+2026,Hyundai,Kona,Limited FWD,29333,,10,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8HE3A32TU392972,https://www.cargurus.com/Cars/link/432703771
+2027,Hyundai,Sonata,SE,29387,29265,10,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHL24JA4VA605058,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795420271
+2027,Hyundai,Kona,SEL Sport,29407,29285,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HF3ABXVU540907,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793722054
+2027,Volkswagen,Jetta,SE,29408,29286,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VW7W7BU8VM005177,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789476718
+2027,Volkswagen,Jetta,SE,29408,29286,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VW7W7BU5VM004035,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789476721
+2026,Hyundai,Sonata,SEL,29410,31515,13,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHL64JAXTA576201,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=774156207
+2026,Kia,K5,GT-Line,29411,32720,12,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNAG64J79T5492533,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=784158874
+2027,Toyota,Camry,LE,29424,31314,65,New,,San Francisco Toyota,"San Francisco, CA",44.1,AutoTrader,4T1DAACK5VU800595,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795414196
+2027,Hyundai,Kona,SEL Sport,29437,29315,8,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HF3AB6VU540743,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794224570
+2025,Nissan,Frontier,SV,29444,,7208,Certified,Great,Premier Nissan of Fremont,"Fremont, CA",12.2,AutoTrader,1N6ED1EJ8SN637223,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790281050
+2023,Ford,Mustang Mach-E,Premium,29477,,25783,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R72PMA56680,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794334135
+2026,Mazda,CX-30,2.5 S Select Sport AWD,29480,30250,50,New,,Capitol Mazda,"San Jose, CA",4.2,CarGurus,3MVDMBBL1TM233104,https://www.cargurus.com/Cars/link/460067499
+2024,Honda,HR-V,Sport,29480,29480,2,New,,Dublin Honda,"Dublin, CA",25.7,AutoTrader,3CZRZ2H50RM724834,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=752264795
+2023,Ford,Mustang Mach-E,Premium,29492,,20103,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R77PMA59980,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793245611
+2025,Jeep,Wrangler,Unlimited Sahara,29500,,13646,Certified,Great,Normandin Chrysler Jeep Dodge Ram,"San Jose, CA",4.1,AutoTrader,1C4RJXP61SW602364,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788804667
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,29517,29395,50,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL7T1901350,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788910740
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29527,30220,4,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL8TM238834,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794492758
+2026,MAZDA,MAZDA3,2.5 S Sedan w/ Preferred Pkg,29532,29410,4,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPACL6T1908290,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794093804
+2026,Subaru,Forester,Premium,29533,,4548,Certified,Great,Subaru of Hayward,"Hayward, CA",24.2,AutoTrader,4S4SLDD68T3025121,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790160942
+2026,Hyundai,Kona,Limited FWD,29533,,7,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8HE3A35TU491902,https://www.cargurus.com/Cars/link/454299885
+2026,Kia,Niro,LX,29550,29725,11,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDCP3LE1T5372424,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=780292930
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29602,30250,5,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL3TM237963,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794475783
+2026,MAZDA,CX-30,AWD 2.5 S w/ Premium Package,29621,,11592,Certified,Good,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,3MVDMBDL5TM103176,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792126383
+2026,Subaru,Forester,Premium,29622,,8741,Certified,Great,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4SLDD67T3007838,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794604071
+2023,Ford,Mustang Mach-E,Premium,29627,,21588,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3R43PMB00949,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794176813
+2027,Toyota,Camry,LE FWD,29640,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,4T1DAACK7VU45C545,https://www.cargurus.com/Cars/link/460770312
+2027,Toyota,Prius,LE FWD,29641,,,New,,Santa Cruz Toyota,"Capitola, CA",24.6,CarGurus,JTDACAAU2V3089353,https://www.cargurus.com/Cars/link/461279876
+2026,Toyota,Camry,LE FWD,29645,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK8TU912241,https://www.cargurus.com/Cars/link/460927283
+2027,Toyota,Prius,LE FWD,29678,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,JTDACAAU1V3090669,https://www.cargurus.com/Cars/link/463593447
+2027,Nissan,Sentra,SL,29701,30620,7,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9EW2VY211295,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789177250
+2025,Ford,Bronco Sport,Big Bend AWD,29744,,,New,,Greenwood Ford,"Hollister, CA",42.3,CarGurus,3FMCR9BN2SRF31957,https://www.cargurus.com/Cars/link/427201211
+2027,Toyota,Camry,LE FWD,29754,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,4T1DAACK7VU48E847,https://www.cargurus.com/Cars/link/461784491
+2026,Subaru,Impreza,RS,29762,31140,5,New,,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,JF1GUHHC0T8297928,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794584292
+2026,Hyundai,Elantra,Limited,29767,29645,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLP4DGXTU281935,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791763696
+2026,Hyundai,Elantra,Limited,29767,29645,5,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KMHLP4DG5TU281938,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791763705
+2023,Ford,Mustang Mach-E,Premium,29772,,17458,Certified,Good,Capitol Ford,"San Jose, CA",4.1,AutoTrader,3FMTK3RM6PMA31626,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793245609
+2027,Toyota,Prius,LE FWD,29773,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,JTDACAAU0V3090114,https://www.cargurus.com/Cars/link/462492664
+2027,Nissan,Sentra,SL,29774,30590,7,New,,Nissan of Stockton,"Stockton, CA",58.2,AutoTrader,3N1AB9EW2VY210552,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790156667
+2023,Lincoln,Nautilus,Reserve,29800,,43271,Certified,Great,Stevens Creek Lincoln,"San Jose, CA",3.6,AutoTrader,2LMPJ8K91PBL14724,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787465565
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29810,30510,3,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL2TM236884,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792409001
+2026,Kia,K5,GT-Line,29820,30935,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNAG64J74T5527494,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789557167
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29830,30535,3,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL8TM239756,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794475776
+2026,Ford,Maverick,XL,29837,30255,47,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTTW8BA1TRA67369,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=781042742
+2026,Mazda,MAZDA3,2.5 S Premium Hatchback FWD,29847,,6,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,JM1BPAML2T1908561,https://www.cargurus.com/Cars/link/462423230
+2027,Chevrolet,Bolt,RS,29857,33235,3,New,,Capitol Chevrolet,"San Jose, CA",4.1,AutoTrader,1G1FZ6EV4VF124101,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791865403
+2026,MAZDA,CX-30,AWD 2.5 S w/ Select Sport Pkg,29874,30590,4,New,,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,3MVDMBBL9TM234677,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791896131
+2023,Ford,Mustang Mach-E,Premium,29895,,19468,Certified,Good,Sunnyvale Ford,"Sunnyvale, CA",7.7,AutoTrader,3FMTK3RM9PMA27036,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792577152
+2026,Hyundai,Kona,SEL Sport,29897,31275,9,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HFCAB4TU473606,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=782762285
+2027,Hyundai,Kona,SEL Sport,29902,29780,9,New,,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8HF3AB6VU528933,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791926389
+2024,MAZDA,MAZDA3,Hatchback w/Premium Plus Pkg,29948,,27131,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM1BPBNY0R1654289,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794441257
+2026,Nissan,Altima,2.5 SR FWD,29990,,456,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,1N4BL4CV5TN335489,https://www.cargurus.com/Cars/link/450804041
+2023,Jeep,Wrangler,Unlimited Rubicon 4xe,29991,,25209,Certified,Great,Stevens Creek Chrysler Jeep Dodge,"San Jose, CA",4.8,AutoTrader,1C4JJXR68PW661851,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788050866
+2024,Ford,Bronco Sport,Outer Banks AWD,29995,,25,New,,Sager Ford,"Saint Helena, CA",85.8,CarGurus,3FMCR9C6XRRE98319,https://www.cargurus.com/Cars/link/389631928
+2023,Mercedes-Benz,C 300,Sedan,29998,,37029,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1KAF4GB1PR068336,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789796330
+2023,Mercedes-Benz,EQE 350+,4MATIC SUV,29998,,49939,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,4JGGM1CB6PA004933,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789096722
+2026,Kia,Niro EV,Wind FWD,30040,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCR3L18T5159137,https://www.cargurus.com/Cars/link/450409073
+2026,Ford,Maverick,XLT SuperCrew AWD,30048,,12,New,,Future Ford of Concord,"Concord, CA",45.4,CarGurus,3FTTW8JA8TRA49355,https://www.cargurus.com/Cars/link/443078183
+2026,Buick,Envista,Sport Touring,30120,31370,5,New,,Dublin Buick GMC,"Dublin, CA",26.2,AutoTrader,KL47LBEP7TB331281,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795417077
+2026,Kia,Niro EV,Wind FWD,30161,,14,New,,Kia of Vacaville,"Vacaville, CA",72.3,CarGurus,KNDCR3L15T5157295,https://www.cargurus.com/Cars/link/452465631
+2026,Kia,Niro EV,Wind FWD,30161,,14,New,,Kia of Vacaville,"Vacaville, CA",72.3,CarGurus,KNDCR3L1XT5159379,https://www.cargurus.com/Cars/link/452884289
+2026,Mazda,CX-50,2.5 S Select AWD,30174,,10,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,7MMVABAL1TN631516,https://www.cargurus.com/Cars/link/461544374
+2027,Toyota,Camry,LE FWD,30269,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK9VU912039,https://www.cargurus.com/Cars/link/461788878
+2024,Mercedes-Benz,EQB 250+,,30488,,14988,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1N9M0CB1RN099512,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794344033
+2026,Ford,Mustang,EcoBoost Fastback RWD,30495,,12,New,,Downtown Ford Sacramento,"Sacramento, CA",90.8,CarGurus,1FA6P8TH9T5109379,https://www.cargurus.com/Cars/link/437589304
+2026,Acura,Integra,,30500,,3938,Certified,Great,AutoNation Acura Stevens Creek,"Santa Clara, CA",5.5,AutoTrader,19UDE4H28TA015474,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792317730
+2026,Volkswagen,Tiguan,SE FWD,30505,,10,New,,Elk Grove Volkswagen,"Elk Grove, CA",78.9,CarGurus,3VVFR7RM7TM164640,https://www.cargurus.com/Cars/link/457954219
+2026,Kia,Niro EV,Wind FWD,30537,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCR3L19T5160037,https://www.cargurus.com/Cars/link/456788051
+2026,Subaru,WRX,AWD,30594,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,JF1VBAH64T9808890,https://www.cargurus.com/Cars/link/452716447
+2026,Subaru,Forester,,30632,32510,4,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4SLDA65T3163767,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789591571
+2026,Ford,Mustang,EcoBoost Fastback RWD,30655,,3,New,,All Star Ford,"Pittsburg, CA",46.7,CarGurus,1FA6P8TH3T5107451,https://www.cargurus.com/Cars/link/460437721
+2026,Volkswagen,Tiguan,SE FWD,30685,,8,New,,Volkswagen Of Fairfield,"Fairfield, CA",63.6,CarGurus,3VVFR7RM0TM101010,https://www.cargurus.com/Cars/link/448112767
+2026,Ford,Maverick,XLT SuperCrew AWD,30780,,2547,New,,Future Ford of Sacramento,"Sacramento, CA",96.2,CarGurus,3FTTW8JA5TRA49300,https://www.cargurus.com/Cars/link/451812212
+2026,Volkswagen,Tiguan,SE FWD,30962,,5,New,,Volkswagen Of Fairfield,"Fairfield, CA",63.6,CarGurus,3VVFR7RM5TM151319,https://www.cargurus.com/Cars/link/458046887
+2026,Hyundai,Santa Fe,SEL FWD,30965,,6258,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMP24GL5TH155213,https://www.cargurus.com/Cars/link/445791925
+2026,Volkswagen,ID.4,Pro RWD,30986,,1,New,,Cardinale Volkswagen Salinas,"Salinas, CA",44.3,CarGurus,1V2CRPE85TC003245,https://www.cargurus.com/Cars/link/447488632
+2026,Hyundai,Santa Fe Hybrid,SE FWD,30988,,5604,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMP14G14TH119420,https://www.cargurus.com/Cars/link/462960146
+2023,Mercedes-Benz,C 300,Sedan,30995,,27095,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,W1KAF4GB1PR146453,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793320629
+2026,Chevrolet,Trailblazer,ACTIV AWD,31094,,1,New,,Elk Grove Chevrolet,"Elk Grove, CA",79.0,CarGurus,KL79MSSL5TB235515,https://www.cargurus.com/Cars/link/450640850
+2027,Toyota,Camry,SE FWD,31307,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK3VU376866,https://www.cargurus.com/Cars/link/461788877
+2027,Kia,Sportage,LX,31338,32780,10,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPU3DG3V7442068,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789249955
+2026,Kia,Niro EV,Wind FWD,31440,,14,New,,Merced Kia,"Merced, CA",76.5,CarGurus,KNDCR3L16T5160089,https://www.cargurus.com/Cars/link/454626391
+2026,Kia,Sportage,EX AWD,31482,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,5XYK3CDFXTG441424,https://www.cargurus.com/Cars/link/448957061
+2026,Nissan,LEAF,S+ FWD,31527,,0,New,,Redwood City Nissan,"Redwood City, CA",21.9,CarGurus,JN1AZ2BA5TM304386,https://www.cargurus.com/Cars/link/443892352
+2026,Toyota,Camry,SE FWD,31582,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK9TU373354,https://www.cargurus.com/Cars/link/461299376
+2026,Subaru,WRX,,31614,,6,New,,Elk Grove Subaru,"Elk Grove, CA",78.8,CarGurus,JF1VBAH60T9813553,https://www.cargurus.com/Cars/link/457983597
+2027,Kia,Seltos,X-Line AWD,31615,,,New,,Kia Marin,"Novato, CA",63.7,CarGurus,KNDEDCD30V7072315,https://www.cargurus.com/Cars/link/461119217
+2023,Hyundai,Santa Fe,Limited,31621,,22522,Certified,Great,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8S7DA2XPU076979,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795049732
+2026,Kia,Niro,SX FWD,31654,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCT3LE2T5376722,https://www.cargurus.com/Cars/link/449903999
+2026,Kia,Sportage,X-Line AWD,31656,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,5XYK6CDF4TG459053,https://www.cargurus.com/Cars/link/453963561
+2026,Volkswagen,Taos,SE,31665,34273,5,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVVC7B25TM091094,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786496379
+2026,Volkswagen,Tiguan,SE 4Motion,31669,,7,New,,Tracy Volkswagen,"Tracy, CA",37.7,CarGurus,3VVER7RM0TM170811,https://www.cargurus.com/Cars/link/459325130
+2026,Kia,Niro EV,Wind FWD,31687,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCR3L12T5159814,https://www.cargurus.com/Cars/link/456788053
+2026,Kia,Niro EV,Wind FWD,31697,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCR3L12T5160882,https://www.cargurus.com/Cars/link/458009389
+2026,Ford,Mustang,EcoBoost Fastback RWD,31702,,121,New,,Livermore Ford Lincoln,"Livermore, CA",25.7,CarGurus,1FA6P8THXT5128264,https://www.cargurus.com/Cars/link/451369342
+2026,Toyota,Camry,SE FWD,31719,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK9TU798007,https://www.cargurus.com/Cars/link/461412773
+2027,Toyota,Camry,SE FWD,31766,,3,New,,AutoNation Toyota Hayward,"Hayward, CA",24.7,CarGurus,4T1DAACK6VU375789,https://www.cargurus.com/Cars/link/461793529
+2026,Honda,CR-V,LX,31773,32825,2,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS3H2XTH346458,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789045008
+2026,Honda,CR-V,LX,31773,32825,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS3H28TH346619,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789199039
+2026,Volkswagen,ID.4,Pro RWD,31837,,4,New,,Tracy Volkswagen,"Tracy, CA",37.7,CarGurus,1V2CRPE85TC000605,https://www.cargurus.com/Cars/link/434487513
+2027,Subaru,Crosstrek,Limited AWD,31867,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHL64V3702874,https://www.cargurus.com/Cars/link/462432177
+2027,Volkswagen,Jetta,SEL,31913,31791,6,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VWGW7BU4VM002440,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788943978
+2026,Toyota,Camry,SE FWD,31969,,,New,,Novato Toyota,"Novato, CA",63.7,CarGurus,4T1DAACKXTU360340,https://www.cargurus.com/Cars/link/458315769
+2026,Ford,Maverick,XLT,31975,32510,11,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTTW8HAXTRB25860,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795059228
+2026,Jeep,Wrangler,Sport 2-Door 4WD,31995,,18,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4PJXAG4TW297176,https://www.cargurus.com/Cars/link/447710871
+2026,Jeep,Wrangler,Sport 2-Door 4WD,32022,,14,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4PJXAN9TW180272,https://www.cargurus.com/Cars/link/433204893
+2024,Hyundai,Ioniq 5,Limited,32035,,17013,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KR4DEXRU324246,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795528194
+2024,Hyundai,Ioniq 5,Limited,32035,,13298,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KR4DE0RU244258,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795528196
+2023,Hyundai,Santa Fe,Limited,32113,,24972,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8S7DA27PU084389,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795504371
+2027,Kia,Seltos,X-Line S,32115,32865,0,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDEDCD34V5012212,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786407091
+2026,Subaru,Forester,Premium,32121,34151,4,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4SLDB68T3119390,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=781629066
+2026,Toyota,Camry,SE FWD,32139,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK2TU373213,https://www.cargurus.com/Cars/link/461245049
+2026,Nissan,Rogue,Rock Creek AWD,32143,,20,New,,Nissan of Vacaville,"Vacaville, CA",72.4,CarGurus,5N1BT3BB1TC838732,https://www.cargurus.com/Cars/link/451584264
+2026,Jeep,Wrangler,Sport 2-Door 4WD,32144,,18,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4PJXAN8TW186158,https://www.cargurus.com/Cars/link/433619140
+2026,GMC,Terrain,Elevation,32150,34580,5,New,,Gilroy GMC,"Gilroy, CA",29.5,AutoTrader,3GKALMEG4TL499003,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=779288036
+2024,Hyundai,Ioniq 5,Limited,32244,,11962,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KR4DE7RU290718,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795528200
+2027,Toyota,Camry,SE FWD,32260,,3,New,,AutoNation Toyota Hayward,"Hayward, CA",24.7,CarGurus,4T1DAACK5VU798878,https://www.cargurus.com/Cars/link/461793475
+2026,Toyota,Camry,SE FWD,32319,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK2TU373292,https://www.cargurus.com/Cars/link/461299374
+2027,Honda,HR-V,EX-L,32361,33400,5,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,3CZRZ2H77VM739276,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789656098
+2027,Honda,HR-V,EX-L,32361,33400,5,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,3CZRZ2H70VM740754,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793395673
+2026,Volkswagen,ID.4,Pro RWD,32377,,0,New,,Sunnyvale Volkswagen,"Sunnyvale, CA",6.4,CarGurus,1V2CRPE86TC001178,https://www.cargurus.com/Cars/link/434589263
+2027,Kia,Seltos,X-Line S,32380,33130,12,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDEDCD3XV5030536,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790307141
+2027,Volkswagen,Jetta,SEL,32408,32236,6,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VWGW7BU4VM003104,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788714408
+2026,Toyota,Tacoma,SR5 Double Cab RWD,32445,,4420,New,,Redwood City Nissan,"Redwood City, CA",21.9,CarGurus,3TMKB5FN0TM069355,https://www.cargurus.com/Cars/link/462539591
+2026,MAZDA,CX-50,Meridian Edition,32448,,5220,Certified,Good,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,7MMVABXL3TN450070,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795439210
+2026,Volkswagen,ID.4,Pro RWD,32480,,1,New,,Cardinale Volkswagen Salinas,"Salinas, CA",44.3,CarGurus,1V2CRPE89TC001224,https://www.cargurus.com/Cars/link/434219612
+2026,Honda,Accord Hybrid,Sport FWD,32622,,2495,New,,Honda of Stevens Creek,"San Jose, CA",5.1,CarGurus,1HGCY2F51TA048580,https://www.cargurus.com/Cars/link/456075011
+2026,Chevrolet,Colorado,Work Truck Crew Cab RWD,32655,,3,New,,Greenwood Chevrolet,"Hollister, CA",42.4,CarGurus,1GCPSBEKXT1313845,https://www.cargurus.com/Cars/link/456867490
+2026,Subaru,Forester,Premium,32755,35455,7,New,,Livermore Subaru,"Livermore, CA",26.5,AutoTrader,4S4SLDD63T3163505,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791280400
+2025,Ford,Bronco Sport,Heritage,32770,37685,0,New,,Sunnyvale Ford,"Sunnyvale, CA",7.7,AutoTrader,3FMCR9GN9SRF16073,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=759177759
+2026,Honda,CR-V,LX,32786,33870,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H29TH511227,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785894951
+2026,Subaru,Crosstrek,Limited AWD,32905,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHM6XT3813876,https://www.cargurus.com/Cars/link/456456085
+2026,Subaru,Crosstrek,Limited AWD,32905,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHM69T3814078,https://www.cargurus.com/Cars/link/456456077
+2026,Honda,CR-V,LX,32974,33870,75,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HKRS4H22TH511229,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785705809
+2026,Honda,CR-V,LX,32974,33870,6,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HKRS4H26TH517700,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789449035
+2026,Honda,CR-V,LX,32974,33870,6,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HKRS4H26TH511234,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785995694
+2026,Honda,CR-V,LX,32974,33870,6,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HKRS4H26TH519737,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788907229
+2023,Mercedes-Benz,EQE 350+,SUV,32998,,28186,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,4JGGM2BB6PA029628,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793492567
+2023,Mercedes-Benz,EQE 350+,4MATIC Sedan,32998,,26592,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1KEG1CB0PF035459,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794098989
+2024,Hyundai,Ioniq 5,Limited,33035,,6807,Certified,Great,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KM8KR4DE4RU330883,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795528201
+2027,Chevrolet,Equinox,RS,33035,37035,3,New,,Epic Chevrolet,"Sacramento, CA",92.1,AutoTrader,3GNARLEG7VL129243,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=787505755
+2027,Toyota,Prius,XLE FWD,33055,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,JTDACAAU1V3089893,https://www.cargurus.com/Cars/link/462155091
+2026,Honda,Civic,Si,33110,32790,4,New,,Livermore Honda,"Livermore, CA",26.3,AutoTrader,2HGFE1E57TH482229,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795218860
+2024,Hyundai,Ioniq 5,Limited,33113,,14593,Certified,Good,Capitol Hyundai,"San Jose, CA",4.1,AutoTrader,KM8KR4DEXRU325929,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795593709
+2026,Ford,Bronco Sport,Big Bend,33128,33840,17,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9BN3TRF03182,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786548349
+2026,Subaru,Crosstrek,2.5i Wilderness,33149,36027,4,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4GUHT65T3819229,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790039788
+2026,Kia,EV6,Light RWD,33158,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,5XYC34JB6TG016780,https://www.cargurus.com/Cars/link/450755104
+2026,Ford,Bronco Sport,Big Bend,33214,33840,21,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9BN6TRE82635,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783821143
+2026,Honda,CR-V,LX,33217,34325,101,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H23TH476426,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=776453584
+2026,Honda,CR-V,LX,33217,34425,2,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H29TH510398,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785749369
+2026,Ford,Maverick,XLT,33223,33880,14,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTTW8JA0TRA38804,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=771077779
+2026,Subaru,Forester,Premium,33237,36301,10,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4SLDD68T3047278,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=770575145
+2027,Chevrolet,Equinox,RS,33240,36990,3,New,,Epic Chevrolet,"Sacramento, CA",92.1,AutoTrader,3GNARLEG9VL177018,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790982278
+2026,Toyota,Camry,Hybrid,33319,35383,25,New,,AutoNation Toyota Hayward,"Hayward, CA",24.9,AutoTrader,4T1DAACK0TU793262,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792409633
+2026,Toyota,Camry,Nightshade FWD,33338,,,New,,Novato Toyota,"Novato, CA",63.7,CarGurus,4T1DAACK6TU788857,https://www.cargurus.com/Cars/link/460120096
+2025,Acura,ADX,AWD,33350,,3,New,,Marin Acura,"Corte Madera, CA",53.2,CarGurus,3HDSA2H37SM714402,https://www.cargurus.com/Cars/link/427745547
+2026,Honda,Civic,Si,33367,33245,0,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HGFE1E50TH483044,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795415922
+2026,Acura,Integra,A-Spec,33388,,1778,Certified,Great,AutoNation Acura Stevens Creek,"Santa Clara, CA",5.5,AutoTrader,19UDE4H34TA010510,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792317728
+2027,Kia,Sportage,S,33420,34685,10,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPUDDG4V7456812,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791609729
+2027,Kia,Sportage,S,33420,34685,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPUDDG5V7458259,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791609728
+2026,Acura,ADX,FWD,33450,,55,New,,Marin Acura,"Corte Madera, CA",53.2,CarGurus,3HDSA1H34TM702882,https://www.cargurus.com/Cars/link/442043543
+2024,Mercedes-Benz,C 300,Sedan,33488,,11063,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1KAF4GB6RR236328,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792794426
+2026,Kia,Sportage,EX,33510,36720,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNDPVDDG4T7380423,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=777933592
+2026,Kia,Sportage Hybrid,X-Line AWD,33547,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDPVDDG7T7405279,https://www.cargurus.com/Cars/link/449586978
+2027,Toyota,Corolla Cross,LE AWD,33586,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,7MUBAABG0VV46B980,https://www.cargurus.com/Cars/link/461784499
+2026,Toyota,RAV4,LE FWD,33617,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,2T36DRBV6TC45J432,https://www.cargurus.com/Cars/link/460770352
+2026,Ford,Bronco Sport,Big Bend,33628,33840,5,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9BNXTRF10338,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789422088
+2026,Honda,Civic Hybrid,Sport Touring Hatchback FWD,33635,,5,New,,Marin Honda,"San Rafael, CA",53.9,CarGurus,19XFL4H98TE029267,https://www.cargurus.com/Cars/link/460562077
+2027,Kia,Sportage,S,33669,34585,8,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPUDDG8V7470390,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793819130
+2026,Subaru,WRX,Premium,33836,36252,4,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,JF1VBAH65T9810163,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786321363
+2026,Ford,Mustang,Coupe,33837,34990,5,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,1FA6P8TH9T5131320,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786927213
+2026,Hyundai,Tucson Hybrid,SEL AWD,33905,,16,New,,Vallejo Hyundai,"Vallejo, CA",58.1,CarGurus,KM8JBDD17TU445689,https://www.cargurus.com/Cars/link/453455401
+2026,Ford,Maverick,XLT,33925,34635,53,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTTW8HA4TRA31182,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785640224
+2026,Subaru,Forester,Premium,33925,37165,29,New,,Diablo Subaru of Walnut Creek,"Walnut Creek, CA",41.7,AutoTrader,4S4SLDD61T3013134,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=764669869
+2025,MAZDA,CX-50,2.5 Turbo w/ Premium Plus Pkg,33948,,6518,Certified,Great,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,7MMVABEY7SN392137,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791665408
+2026,Toyota,Camry,Nightshade FWD,34018,,2,New,,Santa Cruz Toyota,"Capitola, CA",24.6,CarGurus,4T1DAACK8TU374561,https://www.cargurus.com/Cars/link/461442179
+2026,Kia,Sportage Hybrid,X-Line AWD,34069,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDPVDDGXT7391121,https://www.cargurus.com/Cars/link/448705978
+2026,MAZDA,MAZDA3,2.5 S Hatchback w/ Premium Pkg,34077,33955,50,New,,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM1BPAML7T1877419,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=777285378
+2026,Subaru,Crosstrek,Wilderness AWD,34103,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4GUHU60T3816642,https://www.cargurus.com/Cars/link/457066475
+2026,Toyota,Camry,XLE FWD,34134,,5,New,,Tracy Toyota,"Tracy, CA",37.6,CarGurus,4T1DAACK7TU674365,https://www.cargurus.com/Cars/link/432374667
+2026,Jeep,Wrangler,Sport 2-Door 4WD,34144,,12,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4PJXANXTW205129,https://www.cargurus.com/Cars/link/435413646
+2026,Ford,Ranger,XL SuperCrew RWD,34195,,100,New,,Heritage Ford,"Modesto, CA",52.2,CarGurus,1FTER4BH9TLE23992,https://www.cargurus.com/Cars/link/450812836
+2026,Chevrolet,Colorado,LT Crew Cab RWD,34235,,209,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,1GCPSCEK7T1230993,https://www.cargurus.com/Cars/link/460447756
+2026,Subaru,Forester,Sport AWD,34274,,1,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4SLDH62T3184839,https://www.cargurus.com/Cars/link/462432181
+2026,Subaru,WRX,Premium AWD,34332,,20,New,,Elk Grove Subaru,"Elk Grove, CA",78.8,CarGurus,JF1VBAH63T9808976,https://www.cargurus.com/Cars/link/453942113
+2026,Chevrolet,Equinox,RS FWD,34345,,25,New,,Boardwalk Automall,"Redwood City, CA",21.5,CarGurus,3GNAXLEG4TL404926,https://www.cargurus.com/Cars/link/439114312
+2026,Volkswagen,ID.4,Pro AWD,34486,,1,New,,Cardinale Volkswagen Salinas,"Salinas, CA",44.3,CarGurus,1V2DSPE82TC002708,https://www.cargurus.com/Cars/link/447488634
+2027,Kia,Sportage,EX,34487,36585,10,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDPVDDG1V7424459,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786007930
+2024,Mercedes-Benz,C 300,Sedan,34549,,11056,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1KAF4GB9RR228885,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793125687
+2026,Jeep,Grand Cherokee,Laredo 4WD,34549,,,New,,Turlock Chrysler Dodge Jeep Ram,"Turlock, CA",56.8,CarGurus,1C4RJHAGXTC266272,https://www.cargurus.com/Cars/link/447189659
+2026,Jeep,Grand Cherokee,Laredo 4WD,34549,,,New,,Turlock Chrysler Dodge Jeep Ram,"Turlock, CA",56.8,CarGurus,1C4RJHAG6TC266270,https://www.cargurus.com/Cars/link/446739980
+2027,Honda,Civic,Sport Touring,34567,34445,10,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HGFE4F95VH303630,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795706591
+2027,Honda,Civic,Sport Touring,34567,34445,10,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HGFE4F98VH303279,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795611128
+2027,Honda,Civic,Sport Touring,34567,34445,10,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,2HGFE4F96VH302079,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795610824
+2026,Subaru,Outback,Premium AWD,34625,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,JF2BUPBD5TY600719,https://www.cargurus.com/Cars/link/460636854
+2026,Subaru,Crosstrek,2.5i Wilderness,34667,36045,5,New,,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4GUHT68T3798201,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785925486
+2025,MAZDA,CX-5,Carbon Edition,34677,,4127,Certified,Great,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM3KFBAY5S0579441,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=794194489
+2027,Kia,K5,GT,34700,36085,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNAG44J8XV5538372,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793299059
+2026,Subaru,Crosstrek Hybrid,Limited AWD,34745,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,JF2GUSND3T8297198,https://www.cargurus.com/Cars/link/462432178
+2026,Subaru,Crosstrek Hybrid,Limited AWD,34745,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,JF2GUSND3T8296763,https://www.cargurus.com/Cars/link/462432186
+2026,Nissan,Pathfinder,SV FWD,34765,,5,New,,Nissan of Vacaville,"Vacaville, CA",72.4,CarGurus,5N1DR3BS9TC298800,https://www.cargurus.com/Cars/link/461294129
+2026,Chevrolet,Equinox EV,LT 2 FWD,34795,,31,New,,Delta Chevrolet,"Pittsburg, CA",46.7,CarGurus,3GN7DNRP6TS102505,https://www.cargurus.com/Cars/link/433462360
+2027,Kia,Sportage,X-Line,34860,37485,13,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDPVDDGXV7423715,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786007926
+2025,Jeep,Grand Cherokee,Altitude X 4WD,34875,,9268,New,,Normandin Jeep Chrysler Dodge Ram Fiat,"San Jose, CA",4.2,CarGurus,1C4RJHAG7SC311439,https://www.cargurus.com/Cars/link/413525469
+2026,Chevrolet,Equinox,RS AWD,34930,,8,New,,Delta Chevrolet,"Pittsburg, CA",46.7,CarGurus,3GNAXTEG2TL456202,https://www.cargurus.com/Cars/link/444074203
+2026,Ford,Maverick,XLT,34981,35770,12,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTTW8JA2TRA31191,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=770775351
+2027,Kia,Sportage,EX,34984,36315,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPVDDG6V7453021,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791082300
+2026,Hyundai,Santa Fe Hybrid,SEL FWD,34988,,4622,New,,Future Hyundai of Concord,"Concord, CA",45.3,CarGurus,5NMP24G13TH126887,https://www.cargurus.com/Cars/link/462960144
+2027,Kia,Sportage,EX,34996,36630,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPVDDG3V7444647,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789249950
+2024,Mercedes-Benz,C 300,Sedan,34998,,26679,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1KAF4GB7RR211793,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795437725
+2026,Hyundai,Santa Fe,SEL AWD,34999,,20,New,,Hyundai of Gilroy,"Gilroy, CA",29.6,CarGurus,5NMP2DGL8TH212861,https://www.cargurus.com/Cars/link/445714148
+2026,Honda,Accord Hybrid,Touring FWD,35018,,10,New,,Stockton Honda,"Stockton, CA",57.8,CarGurus,1HGCY2F83TA025196,https://www.cargurus.com/Cars/link/443228052
+2026,Mazda,CX-50,Hybrid Preferred AWD,35111,,5,New,,Mazda of Vacaville,"Vacaville, CA",72.1,CarGurus,7MMVAABW4TN187714,https://www.cargurus.com/Cars/link/456773031
+2026,Subaru,Outback,Premium AWD,35122,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,JF2BUPBD4TY607239,https://www.cargurus.com/Cars/link/462432183
+2026,Hyundai,Santa Fe Hybrid,SEL FWD,35160,,9,New,,Vallejo Hyundai,"Vallejo, CA",58.1,CarGurus,5NMP24G15TH133694,https://www.cargurus.com/Cars/link/454793163
+2025,Ford,Bronco Sport,Outer Banks AWD,35199,,10,New,,Ford of Oakland,"Oakland, CA",39.0,CarGurus,3FMCR9CN1SRF78136,https://www.cargurus.com/Cars/link/452564394
+2026,Nissan,Rogue,Platinum AWD,35242,,7,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,JN8BT3DD6TW314417,https://www.cargurus.com/Cars/link/448448863
+2025,Hyundai,Tucson Hybrid Plug-In,SEL AWD,35400,,1,New,,Hyundai of San Bruno,"San Bruno, CA",35.6,CarGurus,KM8JBDD29SU386300,https://www.cargurus.com/Cars/link/424403856
+2026,Nissan,Frontier,PRO-X Crew Cab RWD,35498,,6,New,,Tracy Nissan,"Tracy, CA",37.6,CarGurus,1N6ED1EJ6TN676166,https://www.cargurus.com/Cars/link/453037031
+2027,Honda,Civic,Sport Touring,35542,35420,0,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,19XFL4H95VE003180,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795620233
+2026,Ford,Ranger,XL,35547,36420,24,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,1FTER4BH7TLE42900,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790187688
+2027,Kia,Sportage,X-Line,35569,38215,11,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDPVDDG3V7411065,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786452050
+2026,Ford,Explorer,Active RWD,35581,,,New,,Greenwood Ford,"Hollister, CA",42.3,CarGurus,1FMUK7DH6TGB95257,https://www.cargurus.com/Cars/link/446693314
+2026,Jeep,Grand Cherokee,Laredo 4WD,35599,,,New,,Turlock Chrysler Dodge Jeep Ram,"Turlock, CA",56.8,CarGurus,1C4RJHAG8TC266271,https://www.cargurus.com/Cars/link/448066291
+2027,Kia,Sportage,X-Line,35627,38000,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,7YAPCDDG0VY008184,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791228333
+2026,Toyota,Tacoma,SR Double Cab RWD,35636,,10,New,,AutoNation Toyota Hayward,"Hayward, CA",24.7,CarGurus,3TYKD5HN8TT057059,https://www.cargurus.com/Cars/link/456255160
+2027,Kia,Sportage,X-Line,35664,38045,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNDPVDDG8V7436673,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=788903357
+2026,Volkswagen,Atlas,SE FWD,35697,,6,New,,Volkswagen Of Fairfield,"Fairfield, CA",63.6,CarGurus,1V2DN2CA7TC579623,https://www.cargurus.com/Cars/link/449931892
+2027,Kia,EV3,Wind,35706,36685,14,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KMDB4DA9VE002167,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792435171
+2027,Honda,Civic,Sport Touring,35767,35645,10,New,,AutoNation Honda Fremont,"Fremont, CA",12.6,AutoTrader,19XFL4H95VE002823,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795611137
+2027,Kia,Sportage,EX,35813,36795,50,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPVDDG1V7460989,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=793311134
+2027,Toyota,Camry,XSE FWD,35878,,0,New,,Freeman Toyota,"Santa Rosa, CA",86.7,CarGurus,4T1DAACK0VU45F447,https://www.cargurus.com/Cars/link/460770308
+2026,Nissan,Rogue,Rock Creek AWD,35895,,5,New,,Hanlees Davis Nissan,"Davis, CA",84.9,CarGurus,5N1BT3BB7TC867801,https://www.cargurus.com/Cars/link/455248630
+2027,Kia,Seltos,X-Line SX,35901,37165,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNDEECD7XV7044411,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789023360
+2025,MAZDA,CX-70,Plug-In Hybrid w/ Premium Pkg,35948,,11929,Certified,Great,Stevens Creek Mazda,"San Jose, CA",5.0,AutoTrader,JM3KJDHAXS1132875,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795439209
+2027,Honda,CR-V,EX-L FWD,35989,,5,New,,Hayward Honda,"Hayward, CA",24.6,CarGurus,2HKRS3H70VH300510,https://www.cargurus.com/Cars/link/458086695
+2023,Mercedes-Benz,EQS 450+,Sedan,35998,,41128,Certified,Great,Mercedes-Benz of Stevens Creek,"Santa Clara, CA",5.2,AutoTrader,W1KCG2DB3PA025713,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=784481881
+2026,Nissan,Frontier,SV Crew Cab LB 4WD,35998,,1233,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,1N6ED1FK2TN667715,https://www.cargurus.com/Cars/link/451061090
+2026,Nissan,LEAF,SV+ FWD,35998,,6,New,,STOCKTON OF NISSAN,"Stockton, CA",58.2,CarGurus,JN1AZ2CA4TM301364,https://www.cargurus.com/Cars/link/434449374
+2027,Kia,EV3,Wind,36000,38630,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,3KMDB4DAXVE003361,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791266658
+2027,Kia,Niro,SX FWD,36024,,,New,,Michael Steads Hilltop Ford Kia,"San Pablo, CA",50.7,CarGurus,KNDCT3JE7V5395630,https://www.cargurus.com/Cars/link/460513312
+2026,Kia,Niro EV,Wave FWD,36056,,11,New,,Kia of Vacaville,"Vacaville, CA",72.3,CarGurus,KNDCT3L11T5159028,https://www.cargurus.com/Cars/link/452465633
+2027,Kia,Sportage,EX,36109,37100,50,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPVDDG8V7461282,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791826650
+2026,Volkswagen,Tiguan,SE,36241,38119,5,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVMR7RM8TM171359,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791308160
+2026,Volkswagen,Tiguan,SE,36241,38119,5,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVMR7RM8TM168042,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791308161
+2026,Volkswagen,Tiguan,SE,36241,38119,15,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVMR7RM8TM175251,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791865231
+2025,Toyota,RAV4,XLE,36335,,12275,Certified,Great,Capitol Toyota (CA),"San Jose, CA",4.1,AutoTrader,2T3P1RFV6SC540326,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795378663
+2026,Nissan,Murano,SV AWD,36343,,5,New,,Razzari Nissan,"Merced, CA",76.4,CarGurus,5N1AZ3BSXTC124706,https://www.cargurus.com/Cars/link/445642393
+2027,Kia,Seltos,X-Line SX,36401,37710,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNDEECD74V7056134,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791674253
+2026,Subaru,Forester,Sport,36442,38946,5,New,,Capitol Subaru,"San Jose, CA",4.1,AutoTrader,4S4SLDH6XT3104140,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783174582
+2026,Chevrolet,Silverado 1500,Custom Crew Cab RWD,36508,,9,New,,Concord Chevrolet,"Concord, CA",45.4,CarGurus,3GCPABEK1TG491079,https://www.cargurus.com/Cars/link/459328169
+2026,Jeep,Cherokee,Laredo,36523,39995,22,New,,Normandin Chrysler Dodge Jeep Ram,"San Jose, CA",4.1,AutoTrader,3C4PJMB23TT206745,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785711098
+2027,Kia,Sportage,X-Line,36622,38000,0,New,,Hilltop KIA,"Richmond, CA",50.9,AutoTrader,KNDPVDDG1V7453251,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791381326
+2027,Kia,EV3,Wind,36780,38185,2,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KMDB4DA8VE002807,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790974962
+2026,Jeep,Cherokee,Laredo,36789,39995,23,New,,Normandin Chrysler Dodge Jeep Ram,"San Jose, CA",4.1,AutoTrader,3C4PJMB27TT252126,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=781697350
+2025,Alfa Romeo,Tonale Hybrid,,36800,,25,New,,Livermore Ford Lincoln,"Livermore, CA",25.7,CarGurus,ZASPATAW1S3089633,https://www.cargurus.com/Cars/link/445649164
+2025,Kia,Niro EV,Wave FWD,36800,,13,New,,Hanlees Chrysler Jeep Dodge Ram Kia,"Davis, CA",84.7,CarGurus,KNDCT3L11S5141031,https://www.cargurus.com/Cars/link/418809654
+2027,Toyota,Camry,XSE FWD,36980,,0,New,,Toyota of Palo Alto,"Palo Alto, CA",12.9,CarGurus,4T1DAACK4VU377282,https://www.cargurus.com/Cars/link/462015626
+2025,Jeep,Gladiator,Sport S Crew Cab 4WD,36995,,10,New,,San Leandro Chrysler Dodge Jeep Ram,"San Leandro, CA",30.0,CarGurus,1C6PJTAG6SL534640,https://www.cargurus.com/Cars/link/424717291
+2026,Ford,Maverick,Lobo,37078,37740,17,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FTCW8TA1TRA23595,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=766793169
+2026,Nissan,Frontier,PRO-X Crew Cab RWD,37088,,6,New,,Tracy Nissan,"Tracy, CA",37.6,CarGurus,1N6ED1EJ5TN663442,https://www.cargurus.com/Cars/link/447602749
+2027,Kia,Sportage,X-Line,37178,38400,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,KNDPVDDG4V7454667,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792435168
+2026,Hyundai,Elantra N,,37228,38415,15,New,,Stevens Creek Hyundai,"Santa Clara, CA",5.1,AutoTrader,KMHLW4DKXTU045132,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792477416
+2026,Volkswagen,Tiguan,SE,37241,38119,5,New,,Capitol Volkswagen,"San Jose, CA",4.0,AutoTrader,3VVMR7RM6TM172056,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791308202
+2027,Kia,Carnival,LX,37274,39200,10,New,,Dublin Kia,"Dublin, CA",25.6,AutoTrader,KNDNB5K37V6668807,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=789340043
+2027,MINI,Cooper,S 2-Door Hatchback FWD,37285,,8,New,,MINI of Stevens Creek,"Santa Clara, CA",4.6,CarGurus,WMW23GD04V2Z14165,https://www.cargurus.com/Cars/link/457617248
+2025,Toyota,Camry,XSE,37335,,13525,Certified,Great,Capitol Toyota (CA),"San Jose, CA",4.1,AutoTrader,4T1DAACK3SU187243,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=795443073
+2026,Subaru,Forester,Touring AWD,37353,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4SLDT63T3159388,https://www.cargurus.com/Cars/link/456456084
+2027,MINI,Cooper,S 2-Door Hatchback FWD,37415,,9,New,,MINI of Stevens Creek,"Santa Clara, CA",4.6,CarGurus,WMW23GD04V2Z14702,https://www.cargurus.com/Cars/link/457617242
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H77TH508645,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785185044
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H74TH497815,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=781201307
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H76TH445392,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=764951345
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H7XTH505822,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783712552
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H71TH454775,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=769847296
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H77TH513280,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786798181
+2026,Honda,CR-V,EX-L,37427,38805,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.3,AutoTrader,2HKRS4H77TH513232,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=786470162
+2026,Subaru,Forester,Touring AWD,37438,,0,New,,Downtown Subaru of Oakland,"Oakland, CA",39.6,CarGurus,4S4SLDT63T3158984,https://www.cargurus.com/Cars/link/456456083
+2023,Mercedes-Benz,EQE 350+,4MATIC SUV,37499,,6680,Certified,Great,Mercedes-Benz of San Jose,"San Jose, CA",4.1,AutoTrader,4JGGM1CB1PA019811,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791746128
+2026,Ford,Explorer,Active AWD,37500,,10,New,,Watsonville Ford,"Watsonville, CA",29.5,CarGurus,1FMUK8DH9TGB67135,https://www.cargurus.com/Cars/link/460246457
+2026,Audi,A3,,37544,,1,New,,Audi Monterey Peninsula,"Seaside, CA",49.4,CarGurus,WAUGUDGY0TA113710,https://www.cargurus.com/Cars/link/452413415
+2026,Audi,A3,,37544,,1,New,,Audi Monterey Peninsula,"Seaside, CA",49.4,CarGurus,WAUGUDGY3TA052739,https://www.cargurus.com/Cars/link/439262769
+2027,Kia,EV3,Wind,37593,38630,9,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,3KMDB4DA8VE004508,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=792017057
+2026,Ford,Bronco Sport,Outer Banks,37612,38330,40,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9CN9TRF17358,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790279751
+2026,Kia,Sportage,X-Line,37619,39470,12,New,,Capitol Kia,"San Jose, CA",4.1,AutoTrader,5XYK6CDF0TG442105,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=783269551
+2026,Chevrolet,Silverado 1500,Work Truck Crew Cab RWD,37695,,3,New,,Epic Chevrolet,"Sacramento, CA",92.0,CarGurus,3GCPAAEDXTG517657,https://www.cargurus.com/Cars/link/462188958
+2026,Dodge,Durango,GT AWD,37798,,13,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4RDJDG7TC265851,https://www.cargurus.com/Cars/link/448900669
+2026,Jeep,Grand Cherokee,Altitude 4WD,37811,,18,New,,TRACY CHRYSLER DODGE JEEP RAM,"Tracy, CA",37.8,CarGurus,1C4RJHAR5TC221645,https://www.cargurus.com/Cars/link/441021627
+2026,RAM,1500,Tradesman Quad Cab RWD,37830,,11,New,,Antioch Chrysler Jeep Dodge RAM,"Antioch, CA",46.7,CarGurus,1C6SRECG7TN354522,https://www.cargurus.com/Cars/link/446016393
+2025,Volvo,EX30,Twin Plus eAWD,37980,,14,New,,Niello Volvo Cars Sacramento,"Sacramento, CA",96.2,CarGurus,YV4EK3ZKXS2603242,https://www.cargurus.com/Cars/link/433188805
+2026,Chrysler,Pacifica,Select FWD,38355,,24,New,,Antioch Chrysler Jeep Dodge RAM,"Antioch, CA",46.7,CarGurus,2C4RC1BG7TR247685,https://www.cargurus.com/Cars/link/443545273
+2026,Ford,Bronco Sport,Outer Banks,38391,39705,12,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9CN4TRF03514,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=785988505
+2025,Ford,Bronco Sport,Heritage,38430,38475,1118,New,,Salinas Valley Ford,"Salinas, CA",44.5,AutoTrader,3FMCR9GN3SRE77819,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=784128265
+2026,Chevrolet,Silverado 1500,Custom Crew Cab RWD,38550,,5,New,,Epic Chevrolet,"Sacramento, CA",92.0,CarGurus,3GCPABEK2TG438407,https://www.cargurus.com/Cars/link/455196956
+2026,Jeep,Wrangler,Willys 4-Door 4WD,38616,,9,New,,Watsonville Chrysler Dodge Jeep Ram,"Watsonville, CA",29.5,CarGurus,1C4PJXDN6TW166731,https://www.cargurus.com/Cars/link/428637882
+2026,Buick,Envision,Sport Touring AWD,38840,,9,New,,Thompson Chevrolet Buick GMC,"Patterson, CA",43.1,CarGurus,LRBFZPR47TD033975,https://www.cargurus.com/Cars/link/460447779
+2026,Ford,Bronco Sport,Outer Banks,38905,39705,6,New,,Frontier Ford,"Santa Clara, CA",4.3,AutoTrader,3FMCR9CN1TRF15524,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=790619546
+2026,Chevrolet,Silverado 1500,Custom Crew Cab RWD,38915,,0,New,,Merced Chevrolet,"Merced, CA",76.6,CarGurus,3GCPABEK7TG499848,https://www.cargurus.com/Cars/link/463507850
+2026,Jeep,Wrangler,Willys 4-Door 4WD,38926,,5,New,,Autoworld Chrysler Dodge Jeep Ram,"Petaluma, CA",77.2,CarGurus,1C4PJXDG6TW269374,https://www.cargurus.com/Cars/link/445367887
+2026,Jeep,Gladiator,Sport S Crew Cab 4WD,39153,,3,New,,Future Chrysler Dodge Jeep Ram of Concord,"Concord, CA",45.2,CarGurus,1C6PJTAGXTL180770,https://www.cargurus.com/Cars/link/444138670
+2026,Audi,A3,quattro Premium Plus 40 TFSI,39164,,1,New,,Audi Monterey Peninsula,"Seaside, CA",49.4,CarGurus,WAUHUDGY7TA139998,https://www.cargurus.com/Cars/link/460736983
+2026,Audi,A3,quattro Premium 40 TFSI,39254,,18,New,,Audi Napa Valley,"Fairfield, CA",63.6,CarGurus,WAUGUDGY3TA009440,https://www.cargurus.com/Cars/link/429981830
+2025,Volvo,EX30,Twin Ultra eAWD,39440,,15,New,,Niello Volvo Cars Sacramento,"Sacramento, CA",96.2,CarGurus,YV4EK3ZL6S2604879,https://www.cargurus.com/Cars/link/435431782
+2026,Hyundai,Palisade,SEL AWD,39483,,10,New,,Hyundai of Tracy,"Tracy, CA",37.8,CarGurus,KM8RLES2XTU087487,https://www.cargurus.com/Cars/link/437311263
+2026,Ford,F-150,STX SuperCrew RWD,39500,,3943,New,,North Bay Ford,"Santa Cruz, CA",25.0,CarGurus,1FTEW2KP3TKD47549,https://www.cargurus.com/Cars/link/462973268
+2026,Dodge,Durango,GT AWD,39508,,150,New,,Folsom Chrysler Jeep Dodge Ram,"Folsom, CA",97.1,CarGurus,1C4RDJDG5TC265573,https://www.cargurus.com/Cars/link/447618611
+2026,MAZDA,CX-70,3.3 Turbo w/ Premium Plus Pkg,39521,,7544,Certified,Great,Capitol Mazda,"San Jose, CA",4.1,AutoTrader,JM3KJEHD0T1200652,https://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?listingId=791666469
+2026,Chevrolet,Equinox EV,LT 2 AWD,39595,,5,New,,Delta Chevrolet,"Pittsburg, CA",46.7,CarGurus,3GN7DNRR2TS101322,https://www.cargurus.com/Cars/link/439356296
+2026,Volkswagen,Atlas,SE 4Motion with Technology,39632,,8,New,,Elk Grove Volkswagen,"Elk Grove, CA",78.9,CarGurus,1V2HN2CA0TC566987,https://www.cargurus.com/Cars/link/446296892
+2025,Dodge,Charger Daytona,R/T AWD,39685,,194,New,,Hanlees Chrysler Dodge Jeep Ram of Napa,"Napa, CA",69.4,CarGurus,2C3CDBCK5SR550639,https://www.cargurus.com/Cars/link/418094182
+2025,Dodge,Charger Daytona,R/T AWD,39685,,24,New,,Hanlees Chrysler Dodge Jeep Ram of Napa,"Napa, CA",69.4,CarGurus,2C3CDBCK7SR550643,https://www.cargurus.com/Cars/link/418094184
+2026,Kia,Niro EV,Wind FWD,39700,,,New,,Kia Marin,"Novato, CA",63.7,CarGurus,KNDCR3L11T5160887,https://www.cargurus.com/Cars/link/458985850
+2026,Jeep,Wrangler,Willys 4-Door 4WD,39735,,25,New,,Gilroy Chrysler Jeep Dodge Ram,"Gilroy, CA",29.7,CarGurus,1C4PJXDN5TW166736,https://www.cargurus.com/Cars/link/431140843
+2026,Ford,F-150,STX SuperCrew RWD,39797,,8,New,,Ford Fairfield,"Fairfield, CA",63.7,CarGurus,1FTEW2KP2TKF60041,https://www.cargurus.com/Cars/link/462091415
+2026,Ford,F-150,STX SuperCrew RWD,39797,,9,New,,Ford Fairfield,"Fairfield, CA",63.7,CarGurus,1FTEW2KP4TKF54760,https://www.cargurus.com/Cars/link/462702846
+2025,Mercedes-Benz,GLA,250 FWD,39845,,5,New,,Mercedes-Benz of Sacramento,"Sacramento, CA",91.1,CarGurus,W1N4N4GB7SJ697495,https://www.cargurus.com/Cars/link/413533723
+2025,Honda,Ridgeline,RTL AWD,39877,,5,New,,Sunnyvale Honda,"Sunnyvale, CA",9.1,CarGurus,5FPYK3F51SB049558,https://www.cargurus.com/Cars/link/427044516
