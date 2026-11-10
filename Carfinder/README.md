@@ -1,6 +1,8 @@
 # Car Finder
 
 Car Finder is a lightweight Python project for discovering affordable nearby new and certified dealer cars. It pulls listings from AutoTrader and CarGurus, filters them by price, year, mileage, and distance, and exports the results to CSV and HTML for easy browsing.
+<img width="2330" height="1856" alt="image" src="https://github.com/user-attachments/assets/3aead6a3-dc70-4851-8e83-3197bff7ec86" />
+
 
 ## Features
 
