@@ -1,5 +1,4 @@
 # AI_ML
-# AI_ML
 
 A collection of small, hands-on projects for learning agentic AI. Each project is built around one or more of the core concepts listed below, lives in its own folder, and can be run independently.
 
